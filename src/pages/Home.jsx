@@ -27,7 +27,7 @@ const Home = () => {
         <FAQ />
         <Contact />
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
