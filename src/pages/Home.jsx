@@ -5,6 +5,7 @@ import Symptoms from '../components/sections/Symptoms';
 import AboutChair from '../components/sections/AboutChair';
 import HowItWorks from '../components/sections/HowItWorks';
 import Conditions from '../components/sections/Conditions';
+import ForEveryone from '../components/sections/ForEveryone';
 import WhyChooseUs from '../components/sections/WhyChooseUs';
 import Testimonials from '../components/sections/Testimonials';
 import FAQ from '../components/sections/FAQ';
@@ -20,6 +21,7 @@ const Home = () => {
         <AboutChair />
         <HowItWorks />
         <Conditions />
+        <ForEveryone />
         <WhyChooseUs />
         <Testimonials />
         <FAQ />
