@@ -46,12 +46,6 @@ const Testimonials = () => {
                 "{testimonial.quote}"
               </p>
               <div className="mt-auto flex items-center gap-4">
-                <img 
-                  src={testimonial.avatar} 
-                  alt={testimonial.author} 
-                  className="w-12 h-12 rounded-[5px] border-2 border-dark object-cover" 
-                  onError={(e) => { e.target.src = 'https://via.placeholder.com/48?text=PV'; }}
-                />
                 <div>
                   <p className="font-heading font-bold text-dark">{testimonial.author}</p>
                 </div>

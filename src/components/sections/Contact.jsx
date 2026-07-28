@@ -18,7 +18,7 @@ const Contact = () => {
             <div className="w-full lg:w-1/3 space-y-8">
               <div className="rounded-[10px] border-2 border-dark overflow-hidden aspect-square relative shadow-sm">
                 <img 
-                  src="https://pelvic-vitality.vercel.app/images/therapist.png" 
+                  src="/images/therapist.png" 
                   alt="Friendly physical therapist" 
                   className="w-full h-full object-cover"
                 />
