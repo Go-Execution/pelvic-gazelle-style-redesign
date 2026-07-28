@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const Conditions = () => {
   const conditions = [
@@ -29,13 +30,13 @@ const Conditions = () => {
   ];
 
   return (
-    <section id="conditions" className="py-24 bg-smoke">
+    <section id="conditions" className="py-12 md:py-24 bg-smoke">
       <div className="container mx-auto px-4 lg:px-8">
-        <div className="text-center mb-16">
+        <div className="text-center mb-8 md:mb-16">
           <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
             What We Treat
           </p>
-          <h2 className="text-4xl md:text-5xl font-heading font-normal text-dark">
+          <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
             We're Here to Help With
           </h2>
         </div>
@@ -48,17 +49,17 @@ const Conditions = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className="bg-white border-2 border-dark p-8 rounded-[10px] flex flex-col h-full shadow-sm hover:-translate-y-1 transition-transform duration-300"
+              className="bg-white border-2 border-dark p-6 md:p-8 rounded-[10px] flex flex-col h-full shadow-sm hover:-translate-y-1 transition-transform duration-300"
             >
               <h3 className="text-xl font-heading font-semibold text-dark mb-3">
                 {condition.title}
               </h3>
-              <p className="font-body text-dark/80 font-light text-[16px] flex-grow mb-6">
+              <p className="font-body text-dark/80 font-medium text-[16px] flex-grow mb-6">
                 {condition.desc}
               </p>
-              <a href="#contact" className="text-primary font-body font-bold text-[15px] flex items-center hover:underline mt-auto">
-                Learn more <span className="ml-2">→</span>
-              </a>
+              <Link to="/contact" className="text-primary font-body font-bold text-[15px] flex items-center hover:underline mt-auto">
+                Consult with us <span className="ml-1 text-lg">→</span>
+              </Link>
             </motion.div>
           ))}
         </div>

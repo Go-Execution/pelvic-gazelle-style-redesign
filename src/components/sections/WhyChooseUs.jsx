@@ -10,13 +10,13 @@ const WhyChooseUs = () => {
 
   return (
     <>
-      <section className="py-24 bg-white">
+      <section className="py-12 md:py-24 bg-white">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-8 md:mb-16">
             <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
               The Pelvic Vitality Difference
             </p>
-            <h2 className="text-4xl md:text-5xl font-heading font-normal text-dark">
+            <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
               Why Choose Us?
             </h2>
           </div>
@@ -29,7 +29,7 @@ const WhyChooseUs = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-heading font-semibold text-dark mb-3">{reason.title}</h3>
-                    <p className="font-body text-dark/80 font-light text-[16px] leading-relaxed">
+                    <p className="font-body text-dark/80 font-medium text-[16px] leading-relaxed">
                       {reason.desc}
                     </p>
                   </div>
@@ -39,24 +39,24 @@ const WhyChooseUs = () => {
         </div>
       </section>
 
-      <section className="py-24 bg-primary text-white">
+      <section className="py-12 md:py-24 bg-primary text-white">
         <div className="container mx-auto px-4 lg:px-8">
           <div className="flex flex-col md:flex-row gap-12 items-center">
             <div className="w-full md:w-1/2">
                <div className="flex flex-col gap-4 mb-6">
                  <span className="text-sm font-heading font-medium tracking-widest uppercase text-lime">
-                   Proven Results
+                   Transform Your Life
                  </span>
-                 <h2 className="text-4xl md:text-5xl font-heading font-normal text-white leading-[1.1]">
-                   Evidence-Based Treatment
+                 <h2 className="text-3xl md:text-5xl font-heading font-normal text-white leading-[1.1]">
+                   Highly Effective
                  </h2>
                </div>
-               <div className="space-y-4 text-white/90 font-body font-light text-[18px] leading-relaxed mb-8">
+               <div className="space-y-4 text-white/90 font-body font-medium text-[18px] leading-relaxed mb-8">
                  <p>
-                   Our methods are grounded in the latest scientific research. Clinical studies demonstrate that targeted electromagnetic stimulation significantly improves pelvic floor muscle strength and significantly reduces symptoms of incontinence.
+                   With Pelvic Floor Therapy you can return to the active, confident life you deserve.
                  </p>
                  <p>
-                   We continuously update our protocols based on peer-reviewed findings to ensure you receive the most effective care possible.
+                   Powerful Pelvic Floor Activation. Each session produces: 5,500-23,000+ contractions -depending on settings.
                  </p>
                </div>
                <div className="grid grid-cols-2 gap-6 mt-8">
@@ -71,7 +71,7 @@ const WhyChooseUs = () => {
                </div>
             </div>
             <div className="w-full md:w-1/2">
-               <div className="bg-dark border-2 border-white rounded-[10px] overflow-hidden shadow-lg h-[400px]">
+               <div className="bg-dark border-2 border-white rounded-[10px] overflow-hidden shadow-lg h-[300px] md:h-[400px]">
                   <img src="/images/evidence_based_treatment.png" alt="Evidence-Based Treatment Approach" className="w-full h-full object-cover" />
                </div>
             </div>

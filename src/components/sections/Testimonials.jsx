@@ -20,13 +20,13 @@ const Testimonials = () => {
   ];
 
   return (
-    <section className="py-24 bg-smoke">
+    <section className="py-12 md:py-24 bg-smoke">
       <div className="container mx-auto px-4 lg:px-8">
-        <div className="text-center mb-16">
+        <div className="text-center mb-8 md:mb-16">
           <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
             Success Stories
           </p>
-          <h2 className="text-4xl md:text-5xl font-heading font-normal text-dark">
+          <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
             Hear From Our Patients
           </h2>
         </div>
@@ -42,7 +42,7 @@ const Testimonials = () => {
               className="bg-white border-2 border-dark rounded-[10px] p-8 flex flex-col relative shadow-sm"
             >
               <div className="text-primary text-5xl font-heading absolute top-4 left-4 opacity-30">"</div>
-              <p className="font-body text-dark/90 font-light italic text-[16px] leading-relaxed mb-8 relative z-10 pt-4 flex-grow">
+              <p className="font-body text-dark/90 font-medium italic text-[16px] leading-relaxed mb-8 relative z-10 pt-4 flex-grow">
                 "{testimonial.quote}"
               </p>
               <div className="mt-auto flex items-center gap-4">

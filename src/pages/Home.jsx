@@ -1,5 +1,4 @@
-import Navbar from '../components/layout/Navbar';
-import Footer from '../components/layout/Footer';
+// Navbar handled by WebsiteLayout
 import Hero from '../components/sections/Hero';
 import Symptoms from '../components/sections/Symptoms';
 import AboutChair from '../components/sections/AboutChair';
@@ -13,8 +12,7 @@ import Contact from '../components/sections/Contact';
 
 const Home = () => {
   return (
-    <div className="min-h-screen bg-white selection:bg-lime selection:text-dark">
-      <Navbar />
+    <div className="bg-white selection:bg-lime selection:text-dark">
       <main>
         <Hero />
         <Symptoms />
@@ -27,7 +25,6 @@ const Home = () => {
         <FAQ />
         <Contact />
       </main>
-      {/* <Footer /> */}
     </div>
   );
 };

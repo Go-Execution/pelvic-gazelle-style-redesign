@@ -1,0 +1,98 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  /* Original Brand Colors */
+  --color-brand-teal: #0d9488;
+  --color-brand-teal-light: #14b8a6;
+  --color-brand-teal-dark: #0f766e;
+  --color-brand-sage: #86efac;
+  --color-brand-sage-light: #bbf7d0;
+  --color-brand-sage-dark: #4ade80;
+  --color-brand-ink: #1f2937;
+  --color-brand-ink-light: #374151;
+  --color-brand-sand: #fefce8;
+  
+  --font-sans: var(--font-inter), sans-serif;
+  --font-heading: var(--font-manrope), sans-serif;
+
+  /* Shadcn UI Variables mapped to :root */
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-muted: var(--muted);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+}
+
+:root {
+  /* Combined variables */
+  --background: #ffffff;
+  --foreground: var(--color-brand-ink);
+  
+  /* Shadcn mapped to Pelvic Vitality Theme */
+  --card: #ffffff;
+  --card-foreground: var(--color-brand-ink);
+  --popover: #ffffff;
+  --popover-foreground: var(--color-brand-ink);
+  
+  --primary: var(--color-brand-teal);
+  --primary-foreground: #ffffff;
+  
+  --secondary: var(--color-brand-sage-light);
+  --secondary-foreground: var(--color-brand-ink-dark);
+  
+  --muted: #f3f4f6; /* Subtle gray for backgrounds */
+  --muted-foreground: var(--color-brand-ink-light);
+  
+  --accent: var(--color-brand-sand);
+  --accent-foreground: var(--color-brand-ink);
+  
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --ring: var(--color-brand-teal);
+  --radius: 0.75rem; /* softer, rounder corners */
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  scroll-behavior: smooth;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@media (pointer: fine) {
+  body, button, a, input, select, textarea, [role="button"], * {
+    cursor: none !important;
+  }
+}

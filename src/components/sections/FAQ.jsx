@@ -16,7 +16,7 @@ const FAQ = () => {
     },
     {
       q: "How many sessions will I need?",
-      a: "A typical treatment plan involves 6 sessions, scheduled twice a week for three weeks, but this can vary depending on your specific condition."
+      a: "A typical treatment plan involves 24 sessions, scheduled 2-3 a week for 12 weeks, but this can vary depending on your specific condition."
     },
     {
       q: "Do I need to undress for the treatment?",
@@ -24,20 +24,20 @@ const FAQ = () => {
     },
     {
       q: "When will I see results?",
-      a: "Many patients report improvement after a single session, with results typically continuing to improve over the next few weeks."
+      a: "Many patients report improvement after a few sessions, with results typically continuing to improve over the next few weeks."
     }
   ];
 
   const [openIndex, setOpenIndex] = useState(0);
 
   return (
-    <section id="faqs" className="py-24 bg-white">
+    <section id="faqs" className="py-12 md:py-24 bg-white">
       <div className="container mx-auto px-4 lg:px-8 max-w-4xl">
-        <div className="text-center mb-16">
+        <div className="text-center mb-8 md:mb-16">
           <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
             Common Questions
           </p>
-          <h2 className="text-4xl md:text-5xl font-heading font-normal text-dark">
+          <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
             Frequently Asked Questions
           </h2>
         </div>
@@ -66,7 +66,7 @@ const FAQ = () => {
                 }`}
               >
                 <div className="w-full h-[2px] bg-dark/10 mb-4"></div>
-                <p className="font-body font-light text-dark/80 text-[16px] leading-relaxed">
+                <p className="font-body font-medium text-dark/80 text-[16px] leading-relaxed">
                   {faq.a}
                 </p>
               </div>

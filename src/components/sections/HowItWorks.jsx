@@ -17,15 +17,18 @@ const HowItWorks = () => {
 
   return (
     <>
-      <section className="py-24 bg-white">
+      <section className="py-12 md:py-24 bg-white">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-8 md:mb-16">
             <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
-              Your Journey to Healing
+              Your Journey To Stability, Confidence, and Control Back in your Daily life
             </p>
-            <h2 className="text-4xl md:text-5xl font-heading font-normal text-dark">
-              How It Works
+            <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark mb-4">
+              Take the First Step
             </h2>
+            <p className="text-dark/80 font-body text-lg font-medium">
+              Keep everything else.
+            </p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto relative">
@@ -38,7 +41,7 @@ const HowItWorks = () => {
                 <h3 className="text-xl font-heading font-semibold text-dark mb-3">
                   {step.title}
                 </h3>
-                <p className="font-body text-dark/80 font-light text-[16px] leading-relaxed">
+                <p className="font-body text-dark/80 font-medium text-[16px] leading-relaxed">
                   {step.desc}
                 </p>
               </div>
@@ -47,27 +50,27 @@ const HowItWorks = () => {
         </div>
       </section>
 
-      <section className="py-24 bg-smoke border-t-2 border-dark">
+      <section className="py-12 md:py-24 bg-smoke border-t-2 border-dark">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-8 md:mb-16">
              <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
                 Transform Your Life
              </p>
-             <h2 className="text-4xl md:text-5xl font-heading font-normal text-dark">
+             <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
                 Life After Pelvic Floor Therapy
              </h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {benefits.map((benefit, index) => (
-               <div key={index} className="bg-white border-2 border-dark p-8 rounded-[10px] flex flex-col h-full shadow-sm hover:bg-[#faf089] transition-colors duration-300">
+               <div key={index} className="bg-white border-2 border-dark p-6 md:p-8 rounded-[10px] flex flex-col h-full shadow-sm hover:bg-[#faf089] transition-colors duration-300">
                   <div className="w-12 h-12 bg-smoke border-2 border-dark rounded-[5px] flex items-center justify-center text-xl mb-6">
                     {benefit.icon}
                   </div>
                   <h3 className="text-xl font-heading font-semibold text-dark mb-3">
                     {benefit.title}
                   </h3>
-                  <p className="font-body text-dark/80 font-light text-[16px] leading-relaxed">
+                  <p className="font-body text-dark/80 font-medium text-[16px] leading-relaxed">
                     {benefit.desc}
                   </p>
                </div>

@@ -15,11 +15,11 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { name: 'Symptoms', href: '#symptoms' },
-    { name: 'The Gazelle Chair', href: '#gazelle-chair' },
-    { name: 'Conditions', href: '#conditions' },
-    { name: 'FAQs', href: '#faqs' },
-    { name: 'Contact', href: '#contact' },
+    { name: 'Symptoms', href: '/symptoms' },
+    { name: 'The Gazelle Chair', href: '/about-chair' },
+    { name: 'Conditions', href: '/conditions' },
+    { name: 'FAQs', href: '/faqs' },
+    { name: 'Contact', href: '/contact' },
   ];
 
   return (
@@ -30,26 +30,26 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 lg:px-8 flex justify-between items-center">
         <Link to="/" className="flex items-center">
-          <img src="/images/logo.png" alt="Pelvic Vitality Logo" className="h-12 w-auto" />
+          <img src="/images/pelvic-logo.png" alt="Pelvic Vitality Logo" className="h-18 md:h-16 lg:h-18 w-auto" />
         </Link>
 
         {/* Desktop Nav */}
         <nav className="hidden lg:flex items-center space-x-8">
           {navLinks.map((link) => (
-            <a
+            <Link
               key={link.name}
-              href={link.href}
-              className="text-[16px] font-body font-light text-dark hover:text-primary transition-colors"
+              to={link.href}
+              className="text-[16px] font-body font-medium text-dark hover:text-primary transition-colors"
             >
               {link.name}
-            </a>
+            </Link>
           ))}
-          <a
-            href="#contact"
+          <Link
+            to="/contact"
             className="bg-primary hover:bg-opacity-90 text-white px-[32px] py-[16px] rounded-button font-heading font-medium text-[21px] transition-all duration-300 shadow-sm hover:shadow-md"
           >
             Book Consultation
-          </a>
+          </Link>
         </nav>
 
         {/* Mobile Menu Toggle */}
@@ -66,22 +66,22 @@ const Navbar = () => {
         <div className="lg:hidden absolute top-full left-0 w-full bg-white shadow-xl border-t border-gray-100">
           <div className="flex flex-col p-4 space-y-4">
             {navLinks.map((link) => (
-               <a
+               <Link
                  key={link.name}
-                 href={link.href}
-                 className="text-dark font-body font-light hover:text-primary transition-colors py-2 border-b border-gray-50"
+                 to={link.href}
+                 className="text-dark font-body font-medium hover:text-primary transition-colors py-2 border-b border-gray-50"
                  onClick={() => setMobileMenuOpen(false)}
                >
                  {link.name}
-               </a>
+               </Link>
              ))}
-             <a
-               href="#contact"
+             <Link
+               to="/contact"
                className="bg-primary text-white text-center px-6 py-4 rounded-button font-heading font-medium transition-colors mt-4 text-[18px]"
                onClick={() => setMobileMenuOpen(false)}
              >
                Book Consultation
-             </a>
+             </Link>
           </div>
         </div>
       )}

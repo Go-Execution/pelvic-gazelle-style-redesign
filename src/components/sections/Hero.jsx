@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
@@ -21,38 +22,38 @@ const Hero = () => {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
-            className="text-5xl md:text-6xl lg:text-[70px] font-heading font-normal text-white mb-6 leading-[1.1]"
+            className="text-4xl sm:text-5xl md:text-6xl lg:text-[70px] font-heading font-normal text-white mb-6 leading-[1.1]"
           >
-            Reclaim Your <span className="text-lime font-medium">Confidence</span> and Comfort
+            Reclaim Your <span className="text-lime font-medium">Confidence</span> and Freedom
           </motion.h1>
           
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="text-lg md:text-xl font-body text-white/90 mb-10 max-w-2xl leading-relaxed font-light"
+            className="text-base sm:text-lg md:text-xl font-body text-white/90 mb-10 max-w-2xl leading-relaxed font-medium"
           >
-            Experience the breakthrough in pelvic floor therapy. Our non-invasive Gazelle Chair treatment is painless, requires no undressing, and delivers the equivalent of <span className="text-gold font-medium">11,000 Kegel exercises</span> in just 20 minutes.
+            Experience the breakthrough in pelvic floor therapy. Our non-invasive Gazelle Chair treatment is painless, all while fully clothed, seated comfortably with zero down time in 20 minute sessions.
           </motion.p>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
-            className="flex flex-col sm:flex-row gap-4"
+            className="flex flex-col sm:flex-row gap-4 w-full justify-center px-4 sm:px-0"
           >
-            <a 
-              href="#contact"
-              className="bg-primary hover:bg-opacity-90 text-white px-[32px] py-[16px] rounded-button font-heading font-medium text-[21px] transition-all duration-300 shadow-sm"
+            <Link 
+              to="/contact"
+              className="bg-primary hover:bg-opacity-90 text-white px-6 py-4 md:px-[32px] md:py-[16px] rounded-button font-heading font-medium text-lg md:text-[21px] transition-all duration-300 shadow-sm w-full sm:w-auto text-center"
             >
               Book Your Consultation
-            </a>
-            <a 
-              href="#gazelle-chair"
-              className="bg-transparent border border-white hover:bg-white hover:text-dark text-white px-[32px] py-[16px] rounded-button font-heading font-medium text-[21px] transition-all duration-300"
+            </Link>
+            <Link 
+              to="/about-chair"
+              className="bg-transparent border border-white hover:bg-white hover:text-dark text-white px-6 py-4 md:px-[32px] md:py-[16px] rounded-button font-heading font-medium text-lg md:text-[21px] transition-all duration-300 w-full sm:w-auto text-center"
             >
               Learn How It Works
-            </a>
+            </Link>
           </motion.div>
         </div>
       </div>

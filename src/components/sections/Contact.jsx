@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 const Contact = () => {
   return (
     <>
-      <section id="contact" className="py-24 bg-smoke">
+      <section id="contact" className="py-16 md:py-24 bg-smoke">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-8 md:mb-16">
             <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
               Get in Touch
             </p>
@@ -25,15 +25,15 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Location</h3>
-                <p className="font-body text-dark/80 font-light">123 Healing Way<br/>Suite 400<br/>Wellness City, WC 12345</p>
+                <p className="font-body text-dark/80 font-medium">Dominium Ridge Shopping Center<br/>22211 I-10 Access Rd #1201 Suite #14<br/>San Antonio, Texas 78256</p>
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Hours</h3>
-                <p className="font-body text-dark/80 font-light">Monday - Friday: 8am - 6pm<br/>Saturday: 9am - 2pm<br/>Sunday: Closed</p>
+                <p className="font-body text-dark/80 font-medium">Monday - Friday: 8am - 6pm<br/>Saturday: 9am - 2pm<br/>Sunday: Closed</p>
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Contact</h3>
-                <p className="font-body text-dark/80 font-light">Phone: (555) 123-4567<br/>Email: hello@pelvicvitality.com</p>
+                <p className="font-body text-dark/80 font-medium">Call us: Pelvic Vitality @ 210-909-7364<br/>Email: hello@pelvicvitality.com</p>
               </div>
             </div>
             
@@ -68,12 +68,12 @@ const Contact = () => {
         </div>
       </section>
 
-      <section className="py-32 bg-primary text-white text-center">
+      <section className="py-12 md:py-32 bg-primary text-white text-center">
         <div className="container mx-auto px-4 max-w-3xl">
           <h2 className="text-4xl md:text-5xl font-heading font-bold mb-6 leading-tight">
             Ready to Reclaim Your Quality of Life?
           </h2>
-          <p className="text-xl font-body font-light text-white/90 mb-10 leading-relaxed">
+          <p className="text-xl font-body font-medium text-white/90 mb-10 leading-relaxed">
             Don't let pelvic floor issues hold you back any longer. Book a consultation today and discover how our advanced technology can help you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
