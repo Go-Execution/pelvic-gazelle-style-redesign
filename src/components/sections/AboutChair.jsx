@@ -11,7 +11,7 @@ const AboutChair = () => {
           <div className="flex flex-col md:flex-row gap-12 items-center">
             <div className="w-full md:w-1/2">
               <div className="bg-smoke p-4 rounded-[10px] border-2 border-dark shadow-sm h-[300px] md:h-[400px]">
-                 <img src="/images/pelvic imageavif.avif" alt="Pelvic Anatomy" className="w-full h-full object-cover rounded-[5px]" />
+                 <img src="/images/pelvic imageavif.jpeg" alt="Pelvic Anatomy" className="w-full h-full object-cover rounded-[5px]" />
               </div>
             </div>
             <div className="w-full md:w-1/2">
