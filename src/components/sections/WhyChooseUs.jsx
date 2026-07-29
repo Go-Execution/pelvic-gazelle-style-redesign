@@ -53,10 +53,7 @@ const WhyChooseUs = () => {
                </div>
                <div className="space-y-4 text-white/90 font-body font-medium text-[18px] leading-relaxed mb-8">
                  <p>
-                   With Pelvic Floor Therapy you can return to the active, confident life you deserve.
-                 </p>
-                 <p>
-                   Powerful Pelvic Floor Activation. Each session produces: 5,500-23,000+ contractions -depending on settings.
+                   Each session produces: 5,500-23,000+ contractions -depending on settings.
                  </p>
                </div>
                <div className="grid grid-cols-2 gap-6 mt-8">

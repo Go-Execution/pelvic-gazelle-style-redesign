@@ -23,12 +23,9 @@ const HowItWorks = () => {
             <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
               Your Journey To Stability, Confidence, and Control Back in your Daily life
             </p>
-            <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark mb-4">
+            <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
               Take the First Step
             </h2>
-            <p className="text-dark/80 font-body text-lg font-medium">
-              Keep everything else.
-            </p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto relative">
@@ -56,8 +53,8 @@ const HowItWorks = () => {
              <p className="text-primary font-heading uppercase tracking-widest text-sm mb-4 font-normal">
                 Transform Your Life
              </p>
-             <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
-                Life After Pelvic Floor Therapy
+             <h2 className="text-3xl md:text-4xl lg:text-5xl font-heading font-normal text-dark max-w-4xl mx-auto leading-tight">
+                With Pelvic Floor Therapy you can return to the active, confident life you deserve
              </h2>
           </div>
           

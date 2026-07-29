@@ -24,7 +24,7 @@ const Hero = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl sm:text-5xl md:text-6xl lg:text-[70px] font-heading font-normal text-white mb-6 leading-[1.1]"
           >
-            Reclaim Your <span className="text-lime font-medium">Confidence</span> and Freedom
+            Reclaim Your <span className="text-lime font-medium">Confidence</span> and <span className="text-lime font-medium">Freedom</span>
           </motion.h1>
           
           <motion.p 
