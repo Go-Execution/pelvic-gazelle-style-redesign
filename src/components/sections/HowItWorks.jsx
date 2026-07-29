@@ -11,7 +11,7 @@ const HowItWorks = () => {
   const benefits = [
     { icon: "✨", title: "Non-Invasive", desc: "Remain fully clothed during the entire 20-minute session." },
     { icon: "⏱️", title: "Time Efficient", desc: "Each session is under 30 minutes, easily fitting into your lunch break." },
-    { icon: "⚡", title: "Highly Effective", desc: "Equivalent to performing 11,000 Kegel exercises per session." },
+    { icon: "⚡", title: "Highly Effective", desc: "Each session produces: 5,500-23,000+ contractions - depending on settings." },
     { icon: "💪", title: "Restore Confidence", desc: "Regain control over your body and improve your quality of life." }
   ];
 

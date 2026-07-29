@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="col-span-1 md:col-span-2">
           <Link to="/" className="inline-block mb-6">
             <div className="bg-white rounded-[5px] inline-flex shadow-sm border-2 border-primary">
-              <img src="/images/pelvic-logo.png" alt="Pelvic Vitality Logo" className="h-10 md:h-12 lg:h-16 w-auto" />
+              <img src="/images/pelvic-logo.png" alt="Pelvic Vitality Logo" className="h-14 md:h-16 lg:h-20 w-auto" />
             </div>
           </Link>
           <p className="text-white/70 font-body font-medium max-w-sm mb-6">

@@ -30,7 +30,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 lg:px-8 flex justify-between items-center">
         <Link to="/" className="flex items-center">
-          <img src="/images/pelvic-logo.png" alt="Pelvic Vitality Logo" className="h-18 md:h-16 lg:h-18 w-auto" />
+          <img src="/images/pelvic-logo.png" alt="Pelvic Vitality Logo" className="h-16 md:h-18 lg:h-20 w-auto" />
         </Link>
 
         {/* Desktop Nav */}
