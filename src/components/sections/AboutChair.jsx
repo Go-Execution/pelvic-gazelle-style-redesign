@@ -8,13 +8,8 @@ const AboutChair = () => {
       {/* What is the Pelvic Floor? */}
       <section className="py-12 md:py-24 bg-white">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="flex flex-col md:flex-row gap-12 items-center">
-            <div className="w-full md:w-1/2">
-              <div className="bg-smoke p-4 rounded-[10px] border-2 border-dark shadow-sm h-[300px] md:h-[400px]">
-                 <img src="/images/pelvic imageavif.jpeg" alt="Pelvic Anatomy" className="w-full h-full object-cover rounded-[5px]" />
-              </div>
-            </div>
-            <div className="w-full md:w-1/2">
+          <div className="flex flex-col gap-12">
+            <div className="w-full text-center max-w-4xl mx-auto">
               <div className="flex flex-col gap-4 mb-6">
                 <span className="text-sm font-heading font-medium tracking-widest uppercase text-primary">
                   Understanding Your Body
@@ -30,6 +25,11 @@ const AboutChair = () => {
                 <p>
                   Traditional Kegel exercises can be difficult to perform correctly and consistently. That's why we use advanced technology to retrain these muscles for you.
                 </p>
+              </div>
+            </div>
+            <div className="w-full">
+              <div className="bg-smoke p-4 md:p-6 rounded-[10px] border-2 border-dark shadow-sm flex justify-center">
+                 <img src="/images/pelvic imageavif.jpg" alt="Pelvic Anatomy" className="w-full max-w-6xl h-auto object-contain rounded-[5px]" />
               </div>
             </div>
           </div>
