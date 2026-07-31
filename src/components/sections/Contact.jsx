@@ -29,7 +29,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Hours</h3>
-                <p className="font-body text-dark/80 font-medium">Monday - Friday: 8am - 6pm<br/>Saturday: 9am - 2pm<br/>Sunday: Closed</p>
+                <p className="font-body text-dark/80 font-medium">Monday - Friday: 9am - 6pm<br/>Saturday: 9am - 2pm<br/>Additional Hours by Request</p>
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Contact</h3>
