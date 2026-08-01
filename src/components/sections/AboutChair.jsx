@@ -20,10 +20,7 @@ const AboutChair = () => {
               </div>
               <div className="space-y-4 text-dark/80 text-[16px] font-body font-medium leading-relaxed">
                 <p>
-                  The pelvic floor is a sling of muscles that supports the bladder, bowel, and uterus. When these muscles weaken due to childbirth, aging, or surgery, it leads to issues like incontinence and pelvic pain.
-                </p>
-                <p>
-                  Traditional Kegel exercises can be difficult to perform correctly and consistently. That's why we use advanced technology to retrain these muscles for you.
+                  The pelvic floor is a group of muscles that stretch across the bottom of your pelvis like a hammock, supporting your bladder, bowel, and reproductive organs. Everyone has one, regardless of sex, and these muscles play a role in everything from bladder control to breathing to sexual function. Despite being invisible and often ignored, the pelvic floor is one of the most functionally important muscle groups in the body.
                 </p>
               </div>
             </div>

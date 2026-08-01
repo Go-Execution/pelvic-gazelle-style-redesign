@@ -27,7 +27,7 @@ const Testimonials = () => {
             Success Stories
           </p>
           <h2 className="text-3xl md:text-5xl font-heading font-normal text-dark">
-            Hear From Our Patients
+            Hear from Patients who have used the Gazelle Chair
           </h2>
         </div>
 

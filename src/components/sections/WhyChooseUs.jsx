@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const WhyChooseUs = () => {
   const reasons = [
     { num: "1", title: "Specialized Focus", desc: "Unlike general physiotherapy clinics, we focus 100% on pelvic floor health. Our specialized knowledge means faster, more effective results." },
-    { num: "2", title: "Advanced Technology", desc: "We combine expert manual therapy with the Gazelle Chair electromagnetic technology for unmatched rehabilitation outcomes." },
+    { num: "2", title: "Advanced Technology", desc: "We use the Gazelle chair electromagnetic technology for unmatched rehabilitation outcomes." },
     { num: "3", title: "Compassionate Care", desc: "We understand how sensitive these issues are. You'll receive judgment-free, private care tailored to your unique situation." },
     { num: "4", title: "Holistic Approach", desc: "We treat the whole person, not just the symptoms. Our approach includes lifestyle advice, nutritional guidance, and ongoing support." }
   ];
@@ -68,8 +68,21 @@ const WhyChooseUs = () => {
                </div>
             </div>
             <div className="w-full md:w-1/2">
-               <div className="bg-dark border-2 border-white rounded-[10px] overflow-hidden shadow-lg h-[300px] md:h-[400px]">
-                  <img src="/images/evidence_based_treatment.png" alt="Evidence-Based Treatment Approach" className="w-full h-full object-cover" />
+               <div className="bg-dark border-2 border-white rounded-[10px] p-6 shadow-lg h-full flex flex-col justify-center">
+                  <h3 className="text-xl md:text-2xl font-heading font-semibold text-lime mb-4 uppercase">
+                    How ExMI Therapy Works
+                  </h3>
+                  <div className="space-y-3 text-white/90 font-body text-[15px] leading-relaxed">
+                    <p>
+                      Extracorporeal Magnetic Innervation (ExMI) uses pulsed magnetic fields to activate the pelvic floor muscles without requiring patients to contract them on their own. When the Magnetic pulses pass through the pelvic region, they create small electrical currents in the nerves that control the pelvic floor.
+                    </p>
+                    <p>
+                      These currents trigger rapid muscle contractions that are much stronger than what most people can achieve voluntarily through Kegel exercises.
+                    </p>
+                    <p>
+                      During each session, the chair delivers thousands of these contractions in a steady pattern. This repeated activation helps the pelvic muscles engage, tighten, and regain strength over time. Because the magnetic pulses reach deep into the pelvic region, even the muscles that are difficult to isolate manually can be stimulated effectively. The entire process is non-invasive, hands-free, and completed while the patient remains fully clothed. With routine use, this gentle stimulation helps support bladder control.
+                    </p>
+                  </div>
                </div>
             </div>
           </div>

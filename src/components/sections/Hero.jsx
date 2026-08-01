@@ -27,14 +27,16 @@ const Hero = () => {
             Reclaim Your <span className="text-lime font-medium">Confidence</span> and <span className="text-lime font-medium">Freedom</span>
           </motion.h1>
           
-          <motion.p 
+          <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="text-base sm:text-lg md:text-xl font-body text-white/90 mb-10 max-w-2xl leading-relaxed font-medium"
+            className="text-base sm:text-lg md:text-xl font-body text-white/90 mb-10 max-w-2xl leading-relaxed font-medium space-y-4"
           >
-            Experience the breakthrough in pelvic floor therapy. Our non-invasive Gazelle Chair treatment is painless, all while fully clothed, seated comfortably with zero down time in 20 minute sessions.
-          </motion.p>
+            <p>Experience Advanced Pelvic Floor Rehabilitation</p>
+            <p>The Gazelle Chair offers a non-invasive, evidence-informed approach to strengthening pelvic floor musculature. Using targeted neuromuscular stimulation, this therapy enhances muscle function without discomfort or the need for disrobing.</p>
+            <p>Effective pelvic floor therapy for men and women.</p>
+          </motion.div>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
