@@ -70,7 +70,7 @@ const WhyChooseUs = () => {
             <div className="w-full md:w-1/2">
                <div className="bg-dark border-2 border-white rounded-[10px] p-6 shadow-lg h-full flex flex-col justify-center">
                   <h3 className="text-xl md:text-2xl font-heading font-semibold text-lime mb-4">
-                    HOW eXMI THERAPHY WORKS
+                    HOW ExMI THERAPHY WORKS
                   </h3>
                   <div className="space-y-3 text-white/90 font-body text-[15px] leading-relaxed">
                     <p>
