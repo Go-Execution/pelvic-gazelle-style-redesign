@@ -33,7 +33,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Contact</h3>
-                <p className="font-body text-dark/80 font-medium">Call us: Pelvic Vitality @ 210-909-7364<br/>Email: hello@pelvicvitality.com</p>
+                <p className="font-body text-dark/80 font-medium">Call us: Pelvic Vitality @ 210-909-7364<br/>Email: Info@pelvic-vitality.com</p>
               </div>
             </div>
             
@@ -80,8 +80,8 @@ const Contact = () => {
             <a href="#contact" className="bg-white text-primary hover:bg-smoke px-[32px] py-[16px] rounded-button font-heading font-bold text-[21px] transition-all duration-300">
               Book Your Appointment
             </a>
-            <a href="tel:5551234567" className="bg-transparent border border-white text-white hover:bg-white/10 px-[32px] py-[16px] rounded-button font-heading font-medium text-[21px] transition-all duration-300">
-              Call Us: (555) 123-4567
+            <a href="tel:2109097364" className="bg-transparent border border-white text-white hover:bg-white/10 px-[32px] py-[16px] rounded-button font-heading font-medium text-[21px] transition-all duration-300">
+              Call Us: 210-909-7364
             </a>
           </div>
         </div>

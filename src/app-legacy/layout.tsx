@@ -29,7 +29,7 @@ export default function RootLayout({
     "name": "Pelvic Vitality",
     "description": "Restore strength, confidence, and comfort with non-invasive electromagnetic pelvic floor therapy.",
     "url": "https://pelvicvitality.com",
-    "telephone": "+1-555-123-4567",
+    "telephone": "210-909-7364",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "123 Healing Way, Suite 400",

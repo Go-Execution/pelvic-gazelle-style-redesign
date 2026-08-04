@@ -30,7 +30,7 @@ const PrivacyPolicyPage = () => {
 
           <h2 className="text-2xl font-heading font-medium text-dark mt-8 mb-4">5. Contact Us</h2>
           <p>
-            If you have questions or comments about this notice, you may email us at privacy@pelvicvitality.com or by post to our office address.
+            If you have questions or comments about this notice, you may email us at Info@pelvic-vitality.com or by post to our office address.
           </p>
         </div>
       </div>
