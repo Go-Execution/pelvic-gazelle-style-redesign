@@ -12,6 +12,7 @@ import AboutChairPage from './pages/AboutChairPage';
 import ConditionsPage from './pages/ConditionsPage';
 import FAQPage from './pages/FAQPage';
 import ContactPage from './pages/ContactPage';
+import SpecialistsPage from './pages/SpecialistsPage';
 
 // Legal Pages
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
@@ -51,6 +52,7 @@ function App() {
           <Route path="/symptoms" element={<SymptomsPage />} />
           <Route path="/about-chair" element={<AboutChairPage />} />
           <Route path="/conditions" element={<ConditionsPage />} />
+          <Route path="/specialists" element={<SpecialistsPage />} />
           <Route path="/faqs" element={<FAQPage />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />

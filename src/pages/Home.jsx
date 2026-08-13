@@ -9,6 +9,7 @@ import WhyChooseUs from '../components/sections/WhyChooseUs';
 import Testimonials from '../components/sections/Testimonials';
 import FAQ from '../components/sections/FAQ';
 import Contact from '../components/sections/Contact';
+import Doctors from '../components/sections/Doctors';
 
 const Home = () => {
   return (
@@ -22,6 +23,7 @@ const Home = () => {
         <ForEveryone />
         <WhyChooseUs />
         <Testimonials />
+        <Doctors />
         <FAQ />
         <Contact />
       </main>

@@ -18,6 +18,7 @@ const Navbar = () => {
     { name: 'Symptoms', href: '/symptoms' },
     { name: 'The Gazelle Chair', href: '/about-chair' },
     { name: 'Conditions', href: '/conditions' },
+    { name: 'Our Specialists', href: '/specialists' },
     { name: 'FAQs', href: '/faqs' },
     { name: 'Contact', href: '/contact' },
   ];
