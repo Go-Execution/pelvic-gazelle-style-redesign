@@ -33,7 +33,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-heading font-semibold text-dark mb-2">Contact</h3>
-                <p className="font-body text-dark/80 font-medium">Call us: Pelvic Vitality @ 210-909-7364<br/>Email: Info@pelvic-vitality.com</p>
+                <p className="font-body text-dark/80 font-medium">Call us: Pelvic Vitality @ 210-909-7364<br/>Email: info@pelvic-vitality.com</p>
               </div>
             </div>
             
