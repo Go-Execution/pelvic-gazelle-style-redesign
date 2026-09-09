@@ -14,8 +14,8 @@ const Contact = () => {
             </h2>
           </div>
 
-          <div className="flex flex-col lg:flex-row gap-12 max-w-6xl mx-auto">
-            <div className="w-full lg:w-1/3 space-y-8">
+          <div className="flex flex-col lg:flex-row gap-12 max-w-6xl mx-auto justify-center">
+            <div className="w-full md:max-w-md space-y-8">
               <div className="rounded-[10px] border-2 border-dark overflow-hidden aspect-square relative shadow-sm">
                 <img 
                   src="/images/therapist-v2.png" 
@@ -37,7 +37,7 @@ const Contact = () => {
               </div>
             </div>
             
-            <div className="w-full lg:w-2/3">
+            <div className="w-full lg:w-2/3 hidden">
               <div className="bg-white border-2 border-dark rounded-[10px] p-8 shadow-sm">
                 <form className="space-y-6">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
