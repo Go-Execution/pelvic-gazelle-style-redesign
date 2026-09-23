@@ -1,0 +1,29 @@
+# Pelvic Vitality - Generative AI Context
+
+Pelvic Vitality is a specialized clinic offering advanced pelvic floor therapy and evidence-based treatments. 
+
+## Services & Equipment
+- Specialized pelvic floor therapy for men and women.
+- The Gazelle Chair: An advanced, non-invasive treatment chair for strengthening pelvic floor muscles and alleviating symptoms like incontinence and pelvic pain.
+
+## Key Conditions Treated
+- Incontinence
+- Pelvic Pain
+- Postpartum Recovery
+- Prostate Recovery
+
+## Specialists
+- Dr. Dianna
+- Maria L Valenzuela
+
+## Contact Information
+- Website: https://pelvicvitality.com
+- Patient Portal: Secure portal for patients to manage appointments and view reports.
+
+## Website Structure
+- About the Gazelle Chair: /about-chair
+- Symptoms we treat: /symptoms
+- Conditions: /conditions
+- Specialists: /specialists
+- FAQs: /faqs
+- Contact: /contact
