@@ -13,6 +13,8 @@ import ConditionsPage from './pages/ConditionsPage';
 import FAQPage from './pages/FAQPage';
 import ContactPage from './pages/ContactPage';
 import SpecialistsPage from './pages/SpecialistsPage';
+import BlogsPage from './pages/BlogsPage';
+import BlogDetailPage from './pages/BlogDetailPage';
 
 // Legal Pages
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
@@ -55,6 +57,8 @@ function App() {
           <Route path="/specialists" element={<SpecialistsPage />} />
           <Route path="/faqs" element={<FAQPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/blogs" element={<BlogsPage />} />
+          <Route path="/blogs/:id" element={<BlogDetailPage />} />
           <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
           <Route path="/terms-of-service" element={<TermsOfServicePage />} />
           <Route path="/hipaa-notice" element={<HipaaNoticePage />} />
