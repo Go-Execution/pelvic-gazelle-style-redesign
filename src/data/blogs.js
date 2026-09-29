@@ -2,7 +2,7 @@ export const blogs = [
   {
     id: "what-is-pelvic-floor-therapy",
     title: "What Is Pelvic Floor Therapy and Who Can Benefit From It?",
-    image: "/images/active_man.png",
+    image: "/images/custom_1.jpg",
     content: `
 When people hear the words "pelvic floor," they often think only about pregnancy or postpartum recovery. In reality, the pelvic floor plays an important role in the health and daily function of both men and women.
 
@@ -40,7 +40,7 @@ Contact Pelvic Vitality to learn more about advanced pelvic floor rehabilitation
   {
     id: "stress-incontinence-san-antonio",
     title: "Stress Incontinence in San Antonio: Understanding Urine Leakage",
-    image: "/images/active_woman.png",
+    image: "/images/custom_2.jpg",
     content: `
 A little urine leakage when you laugh, cough, sneeze, lift something, or exercise may seem like something you simply have to live with. But for many people, those small leaks can have a surprisingly large effect on everyday life.
 
@@ -78,7 +78,7 @@ Pelvic Vitality can help you learn more about its non-invasive pelvic floor reha
   {
     id: "overactive-bladder-frequent-urination",
     title: "Overactive Bladder and Frequent Urination: When Bathroom Trips Become a Daily Problem",
-    image: "/images/old_couple_active_1790700399743.jpg",
+    image: "/images/Urinary.jpg",
     content: `
 How often do you think about where the nearest bathroom is?
 
@@ -124,7 +124,7 @@ Pelvic Vitality provides specialized pelvic floor rehabilitation for men and wom
   {
     id: "pelvic-floor-therapy-for-men",
     title: "Pelvic Floor Therapy for Men: Why Pelvic Health Matters",
-    image: "/images/old_man_active_1790642029931.jpg",
+    image: "/images/custom_3.jpg",
     content: `
 Pelvic floor health is often discussed primarily in connection with women, pregnancy, and postpartum recovery. But men have a pelvic floor too, and those muscles play important roles in bladder control and sexual function.
 
@@ -164,7 +164,7 @@ If you are looking for information about non-invasive pelvic floor strengthening
   {
     id: "pelvic-floor-therapy-for-women",
     title: "Pelvic Floor Therapy for Women in San Antonio: What to Know",
-    image: "/images/old_man_cycling_1790700433294.jpg",
+    image: "/images/custom_5.jpg",
     content: `
 Pelvic health can change throughout a woman's life. Pregnancy, childbirth, aging, changes in muscle strength, and other factors can affect the pelvic floor and the way it functions.
 
@@ -208,7 +208,7 @@ If your symptoms are affecting your confidence or daily routine, consider speaki
   {
     id: "pelvic-floor-confidence",
     title: "Can Pelvic Floor Problems Affect Your Confidence? Here's What to Know",
-    image: "/images/old_man_jogging_1790700271743.jpg",
+    image: "/images/custom_6.jpeg",
     content: `
 Some health concerns are easy to talk about.
 
@@ -256,7 +256,7 @@ Taking the first step can simply mean asking questions and learning what options
   {
     id: "what-happens-during-gazelle-chair-session",
     title: "What Happens During a Gazelle Chair Session?",
-    image: "/images/old_man_stretching_1790700305693.jpg",
+    image: "/images/gazelle-chair-new.png",
     content: `
 If you have been researching pelvic floor therapy in San Antonio, you may have come across the Gazelle Chair.
 
@@ -307,7 +307,7 @@ Sometimes the first step toward better pelvic health is simply understanding wha
   {
     id: "postpartum-pelvic-floor-recovery",
     title: "Postpartum Pelvic Floor Recovery: What New Mothers Should Know",
-    image: "/images/old_woman_active_1790642019147.jpg",
+    image: "/images/postpartum-recovery.jpg",
     content: `
 Having a baby changes your body in many ways. While conversations about postpartum recovery often focus on sleep, nutrition, and general healing, pelvic floor health deserves attention too.
 
@@ -347,7 +347,7 @@ If you are experiencing postpartum pelvic floor concerns, speak with your health
   {
     id: "pelvic-floor-strengthening-without-surgery",
     title: "Pelvic Floor Strengthening Without Surgery: Exploring Your Options in San Antonio",
-    image: "/images/old_woman_gardening_1790700421950.jpg",
+    image: "/images/pelvic_imageavif.jpg",
     content: `
 When people think about treatment for a physical health concern, they may immediately imagine medication, surgery, or lengthy recovery.
 
@@ -391,7 +391,7 @@ Contact Pelvic Vitality to schedule a consultation and learn more about the Gaze
   {
     id: "7-signs-pelvic-floor-health",
     title: "7 Signs You May Want to Learn More About Pelvic Floor Health",
-    image: "/images/old_woman_walking_1790700294046.jpg",
+    image: "/images/old_woman_yoga_1790700261128.jpg",
     content: `
 The pelvic floor is not something most people think about every day.
 
@@ -445,7 +445,7 @@ If you recognize any of these concerns, you do not have to diagnose yourself. St
   {
     id: "why-pelvic-floor-health-matters",
     title: "Why Pelvic Floor Health Matters More Than You Think",
-    image: "/images/old_woman_yoga_1790700261128.jpg",
+    image: "/images/pregnant_woman_yoga_1790700689179.jpg",
     content: `
 Most people do not think about their pelvic floor until something changes.
 
@@ -489,7 +489,7 @@ Sometimes better pelvic health starts with simply understanding what is happenin
   {
     id: "urinary-leakage-during-exercise",
     title: "Urinary Leakage During Exercise: What Could Be Behind It?",
-    image: "/images/young_mother_1790642042734.jpg",
+    image: "/images/young_mother_baby_1790700282766.jpg",
     content: `
 Exercise is supposed to make you feel stronger and healthier. But for some people, a workout can also bring an unexpected problem: urine leakage.
 
@@ -540,7 +540,7 @@ Learning more about pelvic floor rehabilitation may help you better understand t
   {
     id: "waking-up-at-night-nocturia",
     title: "Waking Up to Use the Bathroom at Night? Understanding Nocturia",
-    image: "/images/young_mother_baby_1790700282766.jpg",
+    image: "/images/old_man_stretching_1790700305693.jpg",
     content: `
 Waking up once during the night to use the bathroom may not seem like a major issue.
 
@@ -590,7 +590,7 @@ Your sleep matters, and understanding your bladder and pelvic health is an impor
   {
     id: "pelvic-floor-therapy-busy-people",
     title: "Pelvic Floor Therapy for Busy People: Why 20 Minutes Can Make a Difference",
-    image: "/images/young_mother_toddler_1790700410198.jpg",
+    image: "/images/old_woman_walking_1790700294046.jpg",
     content: `
 Between work, family, errands, appointments, and everything else on the calendar, finding time for yourself can be difficult.
 
@@ -632,7 +632,7 @@ Twenty minutes may be a small part of your day—but taking time to understand y
   {
     id: "pelvic-health-men-women",
     title: "Pelvic Health for Men and Women: It's Not Just a Women's Issue",
-    image: "/images/young_parents_baby_1790700444108.jpg",
+    image: "/images/senior_swimming_1790700678781.jpg",
     content: `
 Pelvic floor health is often associated with women's health, particularly pregnancy and postpartum recovery.
 
@@ -680,7 +680,7 @@ Pelvic health is everyone's health—and understanding your options is a reasona
   {
     id: "stress-incontinence-vs-urge-incontinence",
     title: "Stress Incontinence vs. Urge Incontinence: What's the Difference?",
-    image: "/images/Dr-Dianna.png",
+    image: "/images/young_parents_baby_1790700444108.jpg",
     content: `
 Not all urinary leakage happens for the same reason.
 
@@ -737,7 +737,7 @@ You do not have to be embarrassed about asking questions. Bladder health is a le
   {
     id: "what-is-electromagnetic-pelvic-floor-therapy",
     title: "What Is Electromagnetic Pelvic Floor Therapy?",
-    image: "/images/Maria L Valenzuela.png",
+    image: "/images/old_couple_active_1790700399743.jpg",
     content: `
 The idea of using electromagnetic stimulation to work the pelvic floor may sound unfamiliar.
 
@@ -783,7 +783,7 @@ If you are curious about electromagnetic pelvic floor therapy and want to unders
   {
     id: "pelvic-floor-health-after-childbirth",
     title: "Pelvic Floor Health After Childbirth: When Symptoms Deserve Attention",
-    image: "/images/senior_swimming_1790700678781.jpg",
+    image: "/images/old_woman_gardening_1790700421950.jpg",
     content: `
 Bringing a baby into the world is a major physical experience.
 
@@ -835,7 +835,7 @@ You deserve to understand what is happening with your body and what options may 
   {
     id: "overactive-bladder-everyday-routine",
     title: "Overactive Bladder: How It Can Affect Your Everyday Routine",
-    image: "/images/pregnant_woman_yoga_1790700689179.jpg",
+    image: "/images/old_man_cycling_1790700433294.jpg",
     content: `
 An overactive bladder can turn ordinary plans into calculations.
 
@@ -886,7 +886,7 @@ The first step does not have to be complicated. It can simply be learning more a
   {
     id: "pelvic-floor-health-quality-of-life",
     title: "Pelvic Floor Health and Quality of Life: It's About More Than Symptoms",
-    image: "/images/pelvic_imageavif.jpg",
+    image: "/images/young_mother_toddler_1790700410198.jpg",
     content: `
 Pelvic floor problems are often discussed in terms of symptoms.
 

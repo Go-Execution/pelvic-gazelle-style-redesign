@@ -26,7 +26,7 @@ const AboutChair = () => {
             </div>
             <div className="w-full">
               <div className="bg-smoke p-4 md:p-6 rounded-[10px] border-2 border-dark shadow-sm flex justify-center">
-                 <img src="/images/pelvic imageavif.jpg" alt="Pelvic Anatomy" className="w-full max-w-6xl h-auto object-contain rounded-[5px]" />
+                 <img src="/images/pelvic_imageavif.jpg" alt="Pelvic Anatomy" className="w-full max-w-6xl h-auto object-contain rounded-[5px]" />
               </div>
             </div>
           </div>

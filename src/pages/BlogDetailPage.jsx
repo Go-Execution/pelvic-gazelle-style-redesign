@@ -34,11 +34,11 @@ const BlogDetailPage = () => {
           <h1 className="font-heading font-bold text-3xl md:text-4xl lg:text-5xl text-dark mb-8 leading-tight">
             {blog.title}
           </h1>
-          <div className="w-full aspect-[21/9] md:aspect-[21/10] overflow-hidden rounded-2xl shadow-md">
+          <div className="w-full aspect-[21/9] md:aspect-[21/10] overflow-hidden rounded-2xl shadow-md bg-gray-50 flex items-center justify-center">
             <img 
               src={blog.image} 
               alt={blog.title} 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-contain"
             />
           </div>
         </div>
@@ -77,11 +77,11 @@ const BlogDetailPage = () => {
                 to={`/blogs/${relatedBlog.id}`}
                 className="bg-white rounded-2xl shadow-sm border border-soft/50 overflow-hidden hover:shadow-md transition-shadow group flex flex-col"
               >
-                <div className="aspect-[16/10] overflow-hidden">
+                <div className="aspect-[16/10] overflow-hidden bg-gray-50 flex items-center justify-center">
                   <img 
                     src={relatedBlog.image} 
                     alt={relatedBlog.title} 
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                   />
                 </div>
                 <div className="p-6 flex flex-col flex-grow">

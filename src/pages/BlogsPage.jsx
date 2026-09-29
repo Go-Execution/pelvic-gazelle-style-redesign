@@ -32,11 +32,11 @@ const BlogsPage = () => {
                 to={`/blogs/${blog.id}`}
                 className="bg-white rounded-2xl shadow-sm border border-soft/50 overflow-hidden hover:shadow-md transition-shadow group flex flex-col"
               >
-                <div className="aspect-[16/10] overflow-hidden">
+                <div className="aspect-[16/10] overflow-hidden bg-gray-50 flex items-center justify-center">
                   <img 
                     src={blog.image} 
                     alt={blog.title} 
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                   />
                 </div>
                 <div className="p-6 flex flex-col flex-grow">
