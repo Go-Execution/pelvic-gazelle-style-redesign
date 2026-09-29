@@ -19,6 +19,7 @@ const Navbar = () => {
     { name: 'The Gazelle Chair', href: '/about-chair' },
     { name: 'Conditions', href: '/conditions' },
     { name: 'Our Specialists', href: '/specialists' },
+    { name: 'Blogs', href: '/blogs' },
     { name: 'FAQs', href: '/faqs' },
     { name: 'Contact', href: '/contact' },
   ];

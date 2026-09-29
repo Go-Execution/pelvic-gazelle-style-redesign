@@ -11,17 +11,18 @@ const BlogDetailPage = () => {
     return <Navigate to="/blogs" replace />;
   }
 
-  // Related blogs (random 3)
-  const relatedBlogs = blogs
-    .filter(b => b.id !== id)
-    .sort(() => 0.5 - Math.random())
-    .slice(0, 3);
+  const currentIndex = blogs.findIndex(b => b.id === id);
+  const relatedBlogs = [];
+  for (let i = 1; i <= 3; i++) {
+    const nextIndex = (currentIndex + i) % blogs.length;
+    relatedBlogs.push(blogs[nextIndex]);
+  }
 
   return (
     <>
       <SEO 
         title={`${blog.title} - Pelvic Vitality`} 
-        description={blog.content.substring(0, 150).replace(/\*\*/g, '').replace(/\*/g, '')}
+        description={blog.content.trim().substring(0, 150).replace(/\*\*/g, '').replace(/\*/g, '')}
       />
       
       {/* Article Header */}

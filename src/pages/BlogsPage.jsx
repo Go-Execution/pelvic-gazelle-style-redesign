@@ -44,7 +44,7 @@ const BlogsPage = () => {
                     {blog.title}
                   </h3>
                   <p className="font-body text-dark/70 line-clamp-3 mb-4 flex-grow">
-                    {blog.content.substring(0, 150).replace(/\*\*/g, '').replace(/\*/g, '')}...
+                    {blog.content.trim().substring(0, 150).replace(/\*\*/g, '').replace(/\*/g, '')}...
                   </p>
                   <div className="text-primary font-medium font-body flex items-center group-hover:gap-2 transition-all">
                     Read Article <span className="ml-1">→</span>
