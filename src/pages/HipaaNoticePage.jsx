@@ -1,8 +1,10 @@
+import InnerPageHero from '../components/shared/InnerPageHero';
 const HipaaNoticePage = () => {
   return (
-    <section className="py-16 md:py-24 bg-white">
+    <>
+      <InnerPageHero title="HIPAA Notice of Privacy Practices" />
+    <section className="py-12 md:py-16 bg-white">
       <div className="container mx-auto px-4 lg:px-8 max-w-4xl">
-        <h1 className="text-4xl md:text-5xl font-heading font-normal text-dark mb-8">HIPAA Notice of Privacy Practices</h1>
         
         <div className="prose prose-lg max-w-none font-body font-medium text-dark/80 space-y-6">
           <p><strong>THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.</strong></p>
@@ -43,6 +45,7 @@ const HipaaNoticePage = () => {
         </div>
       </div>
     </section>
+    </>
   );
 };
 

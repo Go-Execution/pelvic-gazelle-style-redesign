@@ -1,8 +1,10 @@
+import InnerPageHero from '../components/shared/InnerPageHero';
 const PrivacyPolicyPage = () => {
   return (
-    <section className="py-16 md:py-24 bg-white">
+    <>
+      <InnerPageHero title="Privacy Policy" />
+    <section className="py-12 md:py-16 bg-white">
       <div className="container mx-auto px-4 lg:px-8 max-w-4xl">
-        <h1 className="text-4xl md:text-5xl font-heading font-normal text-dark mb-8">Privacy Policy</h1>
         
         <div className="prose prose-lg max-w-none font-body font-medium text-dark/80 space-y-6">
           <p>Last updated: {new Date().toLocaleDateString()}</p>
@@ -35,6 +37,7 @@ const PrivacyPolicyPage = () => {
         </div>
       </div>
     </section>
+    </>
   );
 };
 

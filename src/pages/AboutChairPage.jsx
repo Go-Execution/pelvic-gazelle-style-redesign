@@ -1,4 +1,5 @@
 import SEO from '../components/SEO';
+import InnerPageHero from '../components/shared/InnerPageHero';
 import AboutChair from '../components/sections/AboutChair';
 import HowItWorks from '../components/sections/HowItWorks';
 import WhyChooseUs from '../components/sections/WhyChooseUs';
@@ -11,6 +12,7 @@ const AboutChairPage = () => {
         description="Discover the Gazelle Chair, an advanced non-invasive treatment for strengthening pelvic floor muscles. FDA cleared and evidence-based."
         url="https://pelvicvitality.com/about-chair"
       />
+      <InnerPageHero title="About The Gazelle Chair" subtitle="Discover the advanced non-invasive treatment for strengthening pelvic floor muscles." />
       <AboutChair />
       <HowItWorks />
       <WhyChooseUs />

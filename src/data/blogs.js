@@ -940,4 +940,558 @@ Pelvic Vitality is located at Dominion Ridge Shopping Center, 22211 I-10 Access 
 Better pelvic health is not simply about managing a symptom. It can also be about getting back to feeling comfortable participating in everyday life.
 `
   }
+,
+  {
+    id: "stress-incontinence-vs-urge-incontinence-understan",
+    title: "Stress Incontinence vs. Urge Incontinence: Understanding the Difference",
+    image: "/images/blog/doctor-consultation-4266930.jpg",
+    imageAlt: "Woman discussing bladder and pelvic health symptoms with her doctor",
+    content: `Urinary leakage can happen for different reasons, and understanding the type of symptoms you are experiencing can be an important first step toward finding appropriate support.
+
+Two commonly discussed types of urinary incontinence are stress incontinence and urge incontinence.
+
+What Is Stress Incontinence?
+
+Stress incontinence occurs when urine leaks during activities that put pressure on the bladder.
+
+Common triggers can include:
+
+• Coughing or sneezing
+
+• Laughing
+
+• Running or jumping
+
+• Exercising
+
+• Lifting heavy objects
+
+Pregnancy, childbirth, changes in pelvic floor muscles, and other factors may contribute to stress incontinence.
+
+What Is Urge Incontinence?
+
+Urge incontinence involves a sudden and strong need to urinate that can sometimes be difficult to control.
+
+People experiencing this type of bladder concern may also notice frequent trips to the bathroom or waking during the night to urinate.
+
+Different factors can contribute to these symptoms, which is why professional evaluation can be helpful.
+
+Why Understanding Your Symptoms Matters
+
+Stress and urge incontinence can have different causes and may require different approaches.
+
+A healthcare professional can discuss your symptoms, medical history, and individual circumstances to help determine appropriate options.
+
+Pelvic Vitality provides non-invasive pelvic wellness sessions using the Gazelle Chair. The device uses electromagnetic neuromuscular stimulation targeting the pelvic floor, and sessions are performed while fully clothed.
+
+If bladder leakage or urgency is affecting your daily life, consider speaking with a qualified healthcare professional to better understand your symptoms and options.`
+  },
+  {
+    id: "pelvic-floor-health-and-aging-understanding-change",
+    title: "Pelvic Floor Health and Aging: Understanding Changes Over Time",
+    image: "/images/blog/mature-woman-yoga-8172939.jpg",
+    imageAlt: "Healthy mature woman practicing yoga outdoors",
+    content: `As we get older, our bodies naturally go through many changes. While people often focus on maintaining heart health, mobility, and overall fitness, pelvic health is another important part of maintaining comfort and quality of life.
+
+The pelvic floor muscles help support the bladder, bowel, and other pelvic organs. Changes in muscle strength, coordination, hormones, and overall health can sometimes affect how these muscles function.
+
+Common Changes People May Notice
+
+Pelvic health concerns can develop gradually or appear following certain life changes. Some common concerns may include:
+
+• Occasional urine leakage when coughing or sneezing
+
+• Increased urgency or frequent trips to the bathroom
+
+• Waking up during the night to urinate
+
+• Changes in pelvic comfort
+
+• Changes in pelvic muscle control
+
+These symptoms should not simply be ignored. There can be different reasons behind pelvic health changes, so speaking with a healthcare professional can help identify the appropriate next steps.
+
+Taking Care of Your Pelvic Health
+
+Pelvic floor therapy and other wellness approaches may be considered depending on an individual’s symptoms and needs.
+
+At Pelvic Vitality, we offer sessions using the Gazelle Chair, which uses electromagnetic neuromuscular stimulation targeting the pelvic floor.
+
+The sessions are non-invasive and performed while fully clothed, providing a convenient option for individuals interested in learning more about pelvic wellness.
+
+Pelvic health deserves attention at every stage of life. Understanding changes and seeking professional guidance can help you make informed decisions about your wellness.`
+  },
+  {
+    id: "taking-the-first-step-toward-better-pelvic-health",
+    title: "Taking the First Step Toward Better Pelvic Health",
+    image: "/images/blog/doctor-consultation-4266930.jpg",
+    imageAlt: "Reassuring one-to-one consultation between a patient and doctor",
+    content: `Taking the first step toward better pelvic health can feel unfamiliar. Whether you're experiencing bladder leakage, frequent urination, or other pelvic health concerns, knowing what to expect can make the process more comfortable.
+
+At Pelvic Vitality in San Antonio, Texas, our focus is on providing a welcoming environment where individuals can explore pelvic wellness options and learn about available treatments.
+
+Understanding Your Pelvic Health Needs
+
+Pelvic health concerns can affect people of different ages and backgrounds. Some individuals experience occasional urinary leakage, while others notice changes in bladder habits or pelvic comfort.
+
+During your initial visit, you can discuss your concerns, goals, and questions with the provider. Understanding your symptoms and personal health history helps guide conversations about appropriate care options.
+
+Exploring Non-Invasive Treatment Options
+
+Pelvic Vitality offers sessions using the Gazelle Chair, a device designed to deliver electromagnetic neuromuscular stimulation to the pelvic floor.
+
+The sessions are designed to be non-invasive, and clients remain fully clothed. The treatment experience and suitability may vary depending on individual circumstances.
+
+Your provider can explain how the technology works, what a session involves, and whether it may be appropriate for your needs.
+
+Making Pelvic Wellness Part of Your Routine
+
+Pelvic health is an important part of overall wellness. Asking questions, understanding your options, and seeking professional guidance can help you make informed decisions about your care.
+
+If you have persistent urinary symptoms, pain, or other concerning changes, consult a qualified healthcare professional for evaluation.
+
+Visit Pelvic Vitality in San Antonio
+
+Pelvic Vitality welcomes individuals interested in learning more about pelvic wellness and available non-invasive treatment options.
+
+Location: Dominion Ridge Shopping Center, 22211 I-10 Access Rd #1201, Suite #14, San Antonio, TX 78256.`
+  },
+  {
+    id: "pelvic-health-is-important-for-men-too",
+    title: "Pelvic Health Is Important for Men Too",
+    image: "/images/blog/male-medical-consultation-6129654.jpg",
+    imageAlt: "Male patient speaking with a doctor during a medical consultation",
+    content: `Pelvic health is often associated with women’s health, but men have a pelvic floor too. These muscles play an important role in bladder and bowel control and are connected to several aspects of men’s overall pelvic wellness.
+
+Understanding the Male Pelvic Floor
+
+The pelvic floor is a group of muscles that supports important structures in the lower part of the body.
+
+Changes in pelvic floor strength or coordination can sometimes be associated with concerns such as:
+
+• Urinary leakage
+
+• Frequent urination
+
+• Sudden urinary urgency
+
+• Difficulty controlling bladder function
+
+• Changes following certain medical procedures or life changes
+
+Not every symptom is caused by the pelvic floor, which is why professional guidance is important when concerns continue.
+
+Why Should Men Pay Attention to Pelvic Health?
+
+Pelvic health can be an important part of maintaining comfort and confidence. Many men may be hesitant to talk about bladder or pelvic concerns, but these issues are worth discussing.
+
+Understanding your symptoms is the first step toward understanding what options may be available.
+
+Exploring Non-Invasive Pelvic Wellness
+
+Pelvic Vitality offers sessions using the Gazelle Chair, which uses electromagnetic neuromuscular stimulation targeting the pelvic floor.
+
+Sessions are non-invasive and performed while fully clothed.
+
+If you are experiencing ongoing pelvic or urinary concerns, speaking with a qualified healthcare professional can help determine the right approach for your individual situation.
+
+Pelvic wellness is not just a women’s health topic. Men deserve access to information and care options that support their overall wellness too.`
+  },
+  {
+    id: "understanding-overactive-bladder",
+    title: "Understanding Overactive Bladder",
+    image: "/images/blog/doctor-ultrasound-7108425.jpg",
+    imageAlt: "Doctor performing an ultrasound examination in a medical clinic",
+    content: `Overactive bladder can affect your daily routine in ways you may not always expect. Frequent trips to the bathroom, sudden urges, and nighttime interruptions can make it difficult to feel comfortable and confident throughout the day.
+
+What Is an Overactive Bladder?
+
+An overactive bladder is commonly associated with a frequent or sudden need to urinate. Some people may also experience accidental leakage when they cannot reach the bathroom in time.
+
+Symptoms can include:
+
+• Frequent urination
+
+• Sudden or strong urges to urinate
+
+• Waking up during the night to use the bathroom
+
+• Urine leakage associated with urgency
+
+These symptoms can have different causes, so discussing persistent changes with a healthcare professional is important.
+
+How Can Pelvic Health Be Involved?
+
+The pelvic floor muscles play an important role in bladder control. Maintaining awareness of pelvic health can be an important part of overall wellness.
+
+At Pelvic Vitality, we provide non-invasive pelvic wellness sessions using the Gazelle Chair. The device uses electromagnetic neuromuscular stimulation targeting the pelvic floor, and sessions are performed while fully clothed.
+
+Every individual is different, and treatment options should be considered according to personal needs.
+
+Take Your Pelvic Health Seriously
+
+If frequent bathroom trips or sudden urgency are affecting your everyday life, you do not have to simply ignore the symptoms.
+
+Learning more about your pelvic health and discussing your concerns with a qualified professional can help you understand the options available to you.`
+  },
+  {
+    id: "pelvic-health-after-childbirth-why-postpartum-well",
+    title: "Pelvic Health After Childbirth: Why Postpartum Wellness Matters",
+    image: "/images/blog/postpartum-mother-newborn-35308512.jpg",
+    imageAlt: "Mother resting with her newborn during postpartum recovery",
+    content: `Childbirth brings many physical and emotional changes. While much of the focus after delivery naturally goes toward caring for a newborn, a mother’s own recovery and pelvic health deserve attention too.
+
+The pelvic floor muscles help support the bladder, bowel, and pelvic organs. Pregnancy and childbirth can place additional stress on these muscles and the surrounding tissues.
+
+Common Postpartum Changes
+
+Some women may experience pelvic floor changes during pregnancy or after childbirth, including:
+
+• Urine leakage when coughing, sneezing, or exercising
+
+• A feeling of pelvic pressure or heaviness
+
+• Changes in bladder habits
+
+• Difficulty coordinating or controlling pelvic floor muscles
+
+• Changes in pelvic comfort
+
+Every woman’s recovery is different, and not everyone experiences these symptoms.
+
+Why Postpartum Pelvic Health Matters
+
+The recovery process can depend on many factors, including pregnancy history, type of delivery, overall health, and individual circumstances.
+
+For some women, pelvic floor therapy may be recommended to help address muscle strength, coordination, and other concerns.
+
+If you experience ongoing pain, significant pressure, bladder problems, or other concerns after childbirth, it is important to discuss them with a qualified healthcare professional.
+
+Exploring Pelvic Wellness Options
+
+Pelvic Vitality offers non-invasive sessions using the Gazelle Chair, which provides electromagnetic neuromuscular stimulation targeting the pelvic floor.
+
+Sessions are performed while fully clothed and are designed to be convenient and comfortable.
+
+Postpartum treatment should always be considered based on an individual’s recovery and medical needs.
+
+Taking care of yourself is an important part of taking care of your family. Giving attention to your own pelvic wellness can be an important part of the postpartum journey.`
+  },
+  {
+    id: "a-20-minute-approach-to-pelvic-wellness",
+    title: "A 20-Minute Approach to Pelvic Wellness",
+    image: "/images/gazelle-chair-new.png",
+    imageAlt: "Gazelle pelvic wellness treatment chair",
+    imageFit: "contain",
+    content: `Life can be busy. Between work, family, appointments, and everyday responsibilities, finding time for your own wellness can sometimes feel difficult.
+
+That is why convenient wellness options can make it easier to prioritize yourself.
+
+A Simple and Convenient Experience
+
+At Pelvic Vitality, sessions using the Gazelle Chair are designed to take approximately 20 minutes.
+
+The sessions are performed while fully clothed and are non-invasive, allowing clients to experience the treatment without the need for a lengthy appointment.
+
+How Does the Gazelle Chair Work?
+
+The Gazelle Chair uses electromagnetic neuromuscular stimulation targeting the pelvic floor.
+
+The technology is designed to stimulate the pelvic floor muscles while you remain seated during the session.
+
+Your provider can explain the process and answer any questions before you begin.
+
+Making Time for Yourself
+
+Pelvic wellness does not have to mean completely changing your schedule.
+
+For people interested in exploring a convenient, non-invasive approach to pelvic wellness, a short session may fit more easily into a busy day.
+
+Every person is different, and treatment suitability and results can vary.
+
+Your pelvic health deserves attention just like the rest of your overall wellness.`
+  },
+  {
+    id: "why-pelvic-floor-strength-matters",
+    title: "Why Pelvic Floor Strength Matters",
+    image: "/images/blog/woman-core-yoga-7520203.jpg",
+    imageAlt: "Woman performing controlled core and yoga exercises",
+    content: `The pelvic floor may not be something you think about every day, but these muscles play an important role in supporting your body and helping with bladder and bowel control.
+
+What Does the Pelvic Floor Do?
+
+The pelvic floor is made up of muscles and tissues located at the bottom of the pelvis.
+
+These muscles help support pelvic organs and contribute to bladder and bowel control.
+
+When pelvic floor muscles are weak, overly tight, or not coordinating properly, some people may experience changes in their pelvic health.
+
+Signs You May Want to Pay Attention To
+
+Some possible signs include:
+
+• Urine leakage during certain activities
+
+• Frequent bathroom trips
+
+• Sudden urinary urgency
+
+• Changes following pregnancy or childbirth
+
+• Difficulty controlling bladder function
+
+• Pelvic discomfort
+
+Having one of these symptoms does not necessarily mean there is a pelvic floor problem. Persistent or concerning symptoms should be discussed with a qualified healthcare professional.
+
+Supporting Your Pelvic Wellness
+
+Pelvic health can be approached in several ways depending on your individual needs.
+
+At Pelvic Vitality, we offer sessions using the Gazelle Chair, which provides electromagnetic neuromuscular stimulation targeting the pelvic floor.
+
+The sessions are non-invasive and performed while fully clothed.
+
+Taking care of your pelvic health is one more way to support your overall wellness and quality of life.`
+  },
+  {
+    id: "the-connection-between-pelvic-health-and-everyday-",
+    title: "The Connection Between Pelvic Health and Everyday Confidence",
+    image: "/images/blog/confident-woman-park-32207522.jpg",
+    imageAlt: "Confident woman walking freely through a sunny park",
+    content: `Your physical health can have an impact on how comfortable and confident you feel during everyday activities.
+
+Pelvic health concerns, especially bladder leakage or frequent urgency, can sometimes cause people to change their routines or avoid certain situations.
+
+How Pelvic Symptoms Can Affect Daily Life
+
+Someone experiencing bladder concerns may think twice before:
+
+• Going on a long drive
+
+• Attending a social event
+
+• Exercising
+
+• Traveling
+
+• Sitting through a meeting
+
+• Going somewhere without knowing where the nearest bathroom is
+
+These changes can become frustrating over time.
+
+Understanding Your Options
+
+Pelvic health concerns can have different causes, and the right approach depends on the individual.
+
+Speaking with a qualified healthcare professional can help you better understand your symptoms and available treatment options.
+
+At Pelvic Vitality, we offer non-invasive pelvic wellness sessions using the Gazelle Chair.
+
+The Gazelle Chair uses electromagnetic neuromuscular stimulation targeting the pelvic floor. Sessions are performed while fully clothed and are designed to be convenient for individuals interested in exploring pelvic wellness.
+
+Your Wellness Matters
+
+You should feel comfortable discussing concerns that affect your everyday life.
+
+Taking the time to understand your pelvic health can be an important step toward taking better care of yourself.`
+  },
+  {
+    id: "you-dont-have-to-feel-embarrassed-about-pelvic-hea",
+    title: "You Don’t Have to Feel Embarrassed About Pelvic Health",
+    image: "/images/blog/doctor-consultation-4266930.jpg",
+    imageAlt: "Warm and supportive conversation with a healthcare professional",
+    content: `Pelvic health can be a sensitive topic, but there is nothing embarrassing about asking questions or seeking help.
+
+Bladder leakage, urgency, frequent urination, and other pelvic concerns can affect people at different stages of life.
+
+You deserve to feel comfortable discussing your health and learning about your options.
+
+At Pelvic Vitality, our goal is to provide a welcoming environment where you can learn more about your pelvic wellness in San Antonio.
+
+Your health matters. Don’t be afraid to talk about it.`
+  },
+  {
+    id: "when-should-you-pay-more-attention-to-your-pelvic-",
+    title: "When Should You Pay More Attention to Your Pelvic Health?",
+    image: "/images/blog/doctor-health-assessment-8376277.jpg",
+    imageAlt: "Doctor ready to conduct a health assessment in a clinic",
+    content: `Pelvic health is easy to overlook until a symptom begins affecting your daily routine.
+
+You may not think much about an occasional bathroom change or small amount of leakage. However, when these concerns become frequent or begin affecting your activities, it may be time to pay closer attention.
+
+Some Signs to Watch For
+
+Consider speaking with a healthcare professional if you regularly experience:
+
+• Urine leakage when coughing, sneezing, laughing, or exercising
+
+• Sudden and difficult-to-control urges to urinate
+
+• Frequent bathroom trips
+
+• Waking up repeatedly during the night to use the bathroom
+
+• Pelvic discomfort or pressure
+
+• Changes in bladder control following pregnancy or childbirth
+
+Why Should You Address These Changes?
+
+Pelvic symptoms can have many possible causes. Understanding what is behind your symptoms can help you learn about appropriate options.
+
+You do not have to feel embarrassed about discussing pelvic health. These concerns are worth talking about, especially when they begin affecting your comfort, routines, or confidence.
+
+Exploring Pelvic Wellness at Pelvic Vitality
+
+Pelvic Vitality provides non-invasive pelvic wellness sessions using the Gazelle Chair.
+
+The Gazelle Chair uses electromagnetic neuromuscular stimulation targeting the pelvic floor, with sessions performed while fully clothed.
+
+If you have ongoing symptoms, professional medical guidance is important to determine the underlying cause and appropriate care.
+
+Your pelvic health is part of your overall health. Paying attention to changes and seeking the right guidance can be an important step toward taking care of yourself.`
+  },
+  {
+    id: "taking-care-of-yourself-after-childbirth",
+    title: "Taking Care of Yourself After Childbirth",
+    image: "/images/blog/mother-baby-hospital-35308514.jpg",
+    imageAlt: "New mother resting and bonding with her baby in a hospital bed",
+    content: `After having a baby, most of your attention naturally goes toward your little one.
+
+But your own recovery matters too.
+
+Pregnancy and childbirth can affect the pelvic floor and may sometimes lead to changes such as bladder leakage, pelvic pressure, or changes in bladder control.
+
+Every recovery is different.
+
+If you notice ongoing symptoms after childbirth, speak with a qualified healthcare professional about your concerns and available options.`
+  },
+  {
+    id: "what-is-the-gazelle-chair",
+    title: "What Is the Gazelle Chair?",
+    image: "/images/gazelle-chair-new.png",
+    imageAlt: "Gazelle pelvic floor treatment chair",
+    imageFit: "contain",
+    content: `The Gazelle Chair is a non-invasive pelvic wellness technology available at Pelvic Vitality.
+
+It uses electromagnetic neuromuscular stimulation targeting the pelvic floor.
+
+Sessions take approximately 20 minutes and are performed while fully clothed.
+
+The experience is designed to be simple and convenient, making it an option for individuals interested in exploring pelvic wellness.
+
+Speak with the Pelvic Vitality team to learn more about the treatment and whether it may be appropriate for you.`
+  },
+  {
+    id: "making-pelvic-wellness-a-priority",
+    title: "Making Pelvic Wellness a Priority",
+    image: "/images/blog/woman-yoga-mat-7900319.jpg",
+    imageAlt: "Woman holding a yoga mat as part of a calm wellness routine",
+    content: `We make time for work.
+
+We make time for family.
+
+We make time for appointments.
+
+But how often do we make time for our own wellness?
+
+Pelvic health is an important part of overall health, and changes such as leakage, urgency, or discomfort should not simply be ignored.
+
+Taking the time to understand your body and discuss concerns with a qualified professional can be an important step toward better wellness.`
+  },
+  {
+    id: "pelvic-health-is-for-everyone",
+    title: "Pelvic Health Is for Everyone",
+    image: "/images/blog/couple-exercising-4852716.jpg",
+    imageAlt: "Man and woman exercising together to support overall wellness",
+    content: `Pelvic health isn’t just a women’s health topic.
+
+Men and women both have pelvic floor muscles that play an important role in bladder and bowel control.
+
+Pregnancy, childbirth, aging, certain medical procedures, and other factors can affect pelvic health.
+
+If you notice changes in bladder control or pelvic comfort, don’t be afraid to talk about them.
+
+Pelvic wellness is an important part of overall wellness for everyone.`
+  },
+  {
+    id: "your-pelvic-floor-and-exercise",
+    title: "Your Pelvic Floor and Exercise",
+    image: "/images/blog/woman-jogging-full-body-7242890.jpg",
+    imageAlt: "Smiling woman shown from head to toe while jogging outdoors",
+    content: `Exercise is an important part of a healthy lifestyle, but some people notice bladder leakage during activities such as running, jumping, or lifting.
+
+This can sometimes be associated with pelvic floor function.
+
+If you experience leakage during exercise, you don’t necessarily have to stop being active. Instead, consider discussing your symptoms with a qualified healthcare professional.
+
+Understanding your pelvic health can help you make informed decisions about your wellness routine.`
+  },
+  {
+    id: "pelvic-health-and-everyday-activities",
+    title: "Pelvic Health and Everyday Activities",
+    image: "/images/blog/woman-walking-tote-34313509.jpg",
+    imageAlt: "Confident woman walking outdoors with a tote bag",
+    content: `Your pelvic health can affect more of your day than you might realize.
+
+Something as simple as going shopping, taking a road trip, exercising, or attending an event can become stressful when you constantly need to know where the nearest bathroom is.
+
+If bladder urgency or leakage is affecting your routine, it may be worth discussing your symptoms with a healthcare professional.
+
+Taking care of your pelvic health can be an important part of taking care of your quality of life.`
+  },
+  {
+    id: "dont-ignore-changes-in-your-bladder-habits",
+    title: "Don’t Ignore Changes in Your Bladder Habits",
+    image: "/images/blog/doctor-consultation-4266930.jpg",
+    imageAlt: "Patient discussing urinary health symptoms with a doctor",
+    content: `Do you suddenly need to find a bathroom wherever you go?
+
+Frequent urination, sudden urgency, or occasional leakage can become frustrating when they start affecting your daily routine.
+
+While these symptoms can have different causes, they are worth discussing with a healthcare professional if they continue.
+
+Understanding your symptoms is the first step toward understanding your options.
+
+At Pelvic Vitality, we provide non-invasive pelvic wellness sessions designed to support your pelvic health journey.`
+  },
+  {
+    id: "pelvic-wellness-for-a-busy-lifestyle",
+    title: "Pelvic Wellness for a Busy Lifestyle",
+    image: "/images/blog/woman-laptop-wellness-8033011.jpg",
+    imageAlt: "Woman balancing laptop work with a home wellness routine",
+    content: `Between work, family, errands, and everything else life brings, making time for yourself can be difficult.
+
+That is why convenient wellness options can make a difference.
+
+Pelvic Vitality offers approximately 20-minute sessions using the Gazelle Chair.
+
+Sessions are non-invasive and performed while fully clothed.
+
+Taking a little time for yourself can be a simple way to make your wellness a priority.`
+  },
+  {
+    id: "why-pelvic-health-matters",
+    title: "Why Pelvic Health Matters",
+    image: "/images/blog/pelvic-floor-anatomy-openstax.jpg",
+    imageAlt: "Medical illustration showing the muscles of the pelvic floor",
+    imageFit: "contain",
+    imageCredit: {
+      label: "Pelvic-floor illustration by OpenStax",
+      sourceUrl: "https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg",
+      licenseLabel: "CC BY 4.0",
+      licenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+    },
+    content: `Your pelvic floor plays an important role in everyday health. It supports the bladder, bowel, and pelvic organs while also helping with bladder and bowel control.
+
+Changes in pelvic health can sometimes lead to leakage, frequent urination, urgency, or discomfort.
+
+Paying attention to these changes is an important part of taking care of yourself.
+
+At Pelvic Vitality, we help individuals learn more about their pelvic wellness and explore non-invasive options such as the Gazelle Chair.
+
+Your pelvic health deserves attention too.`
+  }
 ];

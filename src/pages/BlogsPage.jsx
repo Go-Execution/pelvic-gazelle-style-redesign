@@ -1,3 +1,4 @@
+import InnerPageHero from '../components/shared/InnerPageHero';
 import { Link } from 'react-router-dom';
 import SEO from '../components/SEO';
 import { blogs } from '../data/blogs';
@@ -10,17 +11,10 @@ const BlogsPage = () => {
         description="Read our latest articles on pelvic floor health, rehabilitation, and treatments for men and women."
       />
       
-      {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-soft/30">
-        <div className="container mx-auto px-4 lg:px-8 text-center max-w-4xl">
-          <h1 className="font-heading font-bold text-4xl md:text-5xl lg:text-6xl text-dark mb-6">
-            Pelvic Health <span className="text-primary">Insights</span>
-          </h1>
-          <p className="font-body text-lg md:text-xl text-dark/70 mb-8 max-w-2xl mx-auto">
-            Discover articles, tips, and insights about pelvic floor health, treatments, and how to regain your comfort and confidence.
-          </p>
-        </div>
-      </section>
+      <InnerPageHero
+        title="Pelvic Health Insights"
+        subtitle="Discover articles, tips, and insights about pelvic floor health, treatments, and how to regain your comfort and confidence."
+      />
 
       {/* Blogs Grid */}
       <section className="py-20 bg-white">
@@ -33,11 +27,18 @@ const BlogsPage = () => {
                 className="bg-white rounded-2xl shadow-sm border border-soft/50 overflow-hidden hover:shadow-md transition-shadow group flex flex-col"
               >
                 <div className="aspect-[16/10] overflow-hidden bg-gray-50 flex items-center justify-center">
+                  {blog.image ? (
                   <img 
                     src={blog.image} 
-                    alt={blog.title} 
-                    className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
+                    alt={blog.imageAlt || blog.title}
+                    className="w-full h-full object-contain object-center group-hover:scale-[1.02] transition-transform duration-500"
                   />
+                ) : (
+                  <div className="w-full h-full bg-soft/20 flex flex-col items-center justify-center text-dark/40 group-hover:bg-soft/40 transition-colors">
+                    <svg className="w-8 h-8 mb-2 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+                    <span className="font-heading text-sm">Image Coming Soon</span>
+                  </div>
+                )}
                 </div>
                 <div className="p-6 flex flex-col flex-grow">
                   <h3 className="font-heading font-semibold text-xl text-dark mb-3 group-hover:text-primary transition-colors">
