@@ -1498,7 +1498,7 @@ Your pelvic health deserves attention too.`
   {
     id: "the-connection-between-hydration-and-bladder-health",
     title: "The Connection Between Hydration and Bladder Health",
-    image: "/images/blog/hydration-bladder-health-8844883.jpg",
+    image: "/images/blog/woman-drinking-water-3183150.jpg",
     content: `Drinking enough water is important for your overall health, including your bladder.
 
 Drinking too little may contribute to concentrated urine and bladder irritation, while drinking excessive amounts can increase bathroom visits.
@@ -1512,7 +1512,7 @@ Small daily habits can play an important role in supporting your overall wellnes
   {
     id: "why-do-you-wake-up-at-night-to-use-the-bathroom",
     title: "Why Do You Wake Up at Night to Use the Bathroom?",
-    image: "/images/blog/waking-up-night-bathroom-6749774.jpg",
+    image: "/images/blog/nocturia-waking-night-6944005.jpg",
     content: `Waking up once in a while to use the bathroom can happen to anyone. But when it repeatedly interrupts your sleep, it may be worth paying attention.
 
 Nighttime urination can be associated with fluid intake, medications, bladder conditions, sleep problems, and other health factors.
@@ -1524,7 +1524,7 @@ If nighttime bathroom trips are frequent or affecting your rest, a healthcare pr
   {
     id: "can-stress-affect-your-bladder-habits",
     title: "Can Stress Affect Your Bladder Habits?",
-    image: "/images/blog/stress-bladder-habits-7821495.jpg",
+    image: "/images/blog/stress-nervous-bladder-5938357.jpg",
     content: `Stress can affect the body in different ways, including sleep, digestion, and bathroom habits.
 
 Some people notice that anxiety makes them feel the urge to urinate more frequently, especially during stressful situations.
@@ -1538,7 +1538,7 @@ Your overall wellness includes both physical and emotional health.`
   {
     id: "the-importance-of-relaxing-your-pelvic-floor",
     title: "The Importance of Relaxing Your Pelvic Floor",
-    image: "/images/blog/relaxing-pelvic-floor-4057839.jpg",
+    image: "/images/blog/pelvic-physical-therapy-4506073.jpg",
     content: `Pelvic floor health isn’t only about strength. These muscles also need to relax and coordinate properly.
 
 In some individuals, overly tight pelvic floor muscles can contribute to discomfort or difficulties with bladder and bowel function.
@@ -1552,7 +1552,7 @@ Healthy movement begins with understanding what your body needs.`
   {
     id: "what-is-a-pelvic-floor-assessment",
     title: "What Is a Pelvic Floor Assessment?",
-    image: "/images/blog/pelvic-floor-assessment-6129043.jpg",
+    image: "/images/blog/doctor-consultation-office-7579823.jpg",
     content: `A pelvic floor assessment helps a qualified healthcare professional understand how your pelvic floor muscles are functioning.
 
 Depending on your concerns, the assessment may involve discussing your symptoms, medical history, bladder habits, and daily activities.
@@ -1566,7 +1566,7 @@ At Pelvic Vitality, you can learn about available pelvic wellness services and a
   {
     id: "pelvic-health-and-long-car-rides",
     title: "Pelvic Health and Long Car Rides",
-    image: "/images/blog/pelvic-health-car-rides-1386603.jpg",
+    image: "/images/blog/car-travel-rest-stop-7078174.jpg",
     content: `Do long road trips make you worry about finding the next bathroom?
 
 Frequent urgency or bladder leakage can make travel feel stressful and may cause people to plan every stop in advance.
@@ -1580,7 +1580,7 @@ Your next road trip should be about enjoying the journey, not constantly worryin
   {
     id: "pelvic-health-and-your-daily-routine",
     title: "Pelvic Health and Your Daily Routine",
-    image: "/images/blog/daily-routine-pelvic-health-5417837.jpg",
+    image: "/images/blog/daily-wellness-planner-4058356.jpg",
     content: `Your daily routine can influence how you care for your pelvic health.
 
 Drinking appropriate amounts of water, maintaining regular physical activity, and paying attention to bladder habits can support general wellness.
@@ -1594,7 +1594,7 @@ Listen to your body and seek guidance when something doesn’t feel right.`
   {
     id: "why-pelvic-health-conversations-matter",
     title: "Why Pelvic Health Conversations Matter",
-    image: "/images/blog/pelvic-health-conversations-7659861.jpg",
+    image: "/images/blog/open-medical-consultation-6129444.jpg",
     content: `Many people feel uncomfortable discussing bladder leakage or pelvic symptoms.
 
 As a result, they may avoid asking questions or delay seeking help.
@@ -1608,7 +1608,7 @@ At Pelvic Vitality, we believe that greater awareness is an important step towar
   {
     id: "how-pregnancy-can-affect-pelvic-floor-muscles",
     title: "How Pregnancy Can Affect Pelvic Floor Muscles",
-    image: "/images/blog/pregnancy-pelvic-floor-14467781.jpg",
+    image: "/images/blog/pregnancy-pelvic-support-5424618.jpg",
     content: `Pregnancy places additional demands on the body, including the pelvic floor muscles that support the bladder and other pelvic organs.
 
 Hormonal changes, the growing baby, and childbirth can all influence pelvic floor function.
@@ -1622,7 +1622,7 @@ Understanding these changes can help women make informed decisions about their r
   {
     id: "pelvic-health-after-prostate-surgery",
     title: "Pelvic Health After Prostate Surgery",
-    image: "/images/blog/prostate-surgery-recovery-7578807.jpg",
+    image: "/images/blog/male-prostate-recovery-4173244.jpg",
     content: `Pelvic health can be an important consideration for men recovering from prostate surgery.
 
 Some men experience urinary leakage or changes in bladder control during recovery.
@@ -1636,7 +1636,7 @@ If you are recovering from prostate surgery, ask your medical team about appropr
   {
     id: "does-coughing-cause-bladder-leakage",
     title: "Does Coughing Cause Bladder Leakage?",
-    image: "/images/blog/coughing-bladder-leakage-395088.jpg",
+    image: "/images/blog/coughing-pressure-strain-4031629.jpg",
     content: `A cough, sneeze, or laugh can suddenly increase pressure inside your abdomen.
 
 For some people, this pressure can lead to urine leakage. This is commonly associated with stress urinary incontinence.
@@ -1650,7 +1650,7 @@ Understanding why leakage happens is a useful first step toward finding the righ
   {
     id: "pelvic-health-and-returning-to-exercise",
     title: "Pelvic Health and Returning to Exercise",
-    image: "/images/blog/returning-to-exercise-4428230.jpg",
+    image: "/images/blog/physical-therapy-rehab-5793917.jpg",
     content: `Getting back into exercise is an important goal for many people after pregnancy, surgery, or a period of reduced activity.
 
 However, some individuals notice pelvic pressure, discomfort, or bladder leakage when they resume workouts.
@@ -1664,7 +1664,7 @@ Your fitness journey should support your health, comfort, and long-term wellbein
   {
     id: "understanding-pelvic-pressure",
     title: "Understanding Pelvic Pressure",
-    image: "/images/blog/understanding-pelvic-pressure-6503028.jpg",
+    image: "/images/blog/pelvic-heaviness-discomfort-6542718.jpg",
     content: `Pelvic pressure can feel like heaviness, fullness, or a sensation of something pressing downward in the pelvic area.
 
 Some people notice it after standing for long periods, during physical activity, or at different points throughout the day.
@@ -1678,7 +1678,7 @@ Understanding the cause is an important part of choosing appropriate care.`
   {
     id: "the-role-of-pelvic-floor-muscles-in-bowel-control",
     title: "The Role of Pelvic Floor Muscles in Bowel Control",
-    image: "/images/blog/bowel-control-anatomy-15160359.jpg",
+    image: "/images/blog/pelvic-anatomy-consultation-8248433.jpg",
     content: `Pelvic floor muscles help support bowel control alongside other muscles, nerves, and structures involved in digestion and elimination.
 
 When these systems are not working together effectively, some people may experience difficulty controlling bowel movements or problems emptying their bowels.
@@ -1692,7 +1692,7 @@ Pelvic health involves more than bladder control. It is an important part of ove
   {
     id: "why-every-pelvic-wellness-journey-is-different",
     title: "Why Every Pelvic Wellness Journey Is Different",
-    image: "/images/blog/wellness-journey-path-8412282.jpg",
+    image: "/images/blog/personalized-care-plan-7659861.jpg",
     content: `No two people have exactly the same health history, symptoms, or wellness goals.
 
 One person may be concerned about bladder leakage, while another may experience urgency, pelvic discomfort, or changes after childbirth.
@@ -1720,7 +1720,7 @@ If you are curious about this technology, ask the Pelvic Vitality team how it wo
   {
     id: "pelvic-wellness-and-personal-comfort",
     title: "Pelvic Wellness and Personal Comfort",
-    image: "/images/blog/personal-comfort-relaxing-4112529.jpg",
+    image: "/images/blog/confident-mature-wellness-7087714.jpg",
     content: `Feeling comfortable in your daily life matters.
 
 Whether you are working, exercising, traveling, or spending time with loved ones, ongoing pelvic symptoms can sometimes make ordinary activities more challenging.
@@ -1748,7 +1748,7 @@ Ask questions, share your concerns, and make sure you understand the treatment�
   {
     id: "when-bladder-symptoms-affect-your-sleep",
     title: "When Bladder Symptoms Affect Your Sleep",
-    image: "/images/blog/bladder-sleep-nightstand-8346006.jpg",
+    image: "/images/blog/sleep-disruption-awake-7487108.jpg",
     content: `A good night’s sleep is essential for daily energy and wellbeing.
 
 When you repeatedly wake up to urinate, it can become difficult to feel rested the next day.
@@ -1762,7 +1762,7 @@ Better understanding the cause can help you explore appropriate ways to manage t
   {
     id: "your-pelvic-wellness-starts-with-a-conversation",
     title: "Your Pelvic Wellness Starts With a Conversation",
-    image: "/images/blog/clinic-conversation-welcome-1519494026892.jpg",
+    image: "/images/blog/doctor-consultation-4266930.jpg",
     content: `Sometimes, the hardest part of looking after your health is knowing where to start.
 
 You may have questions about bladder control, pelvic floor function, or treatment options but feel unsure who to ask.
