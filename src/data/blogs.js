@@ -1775,4 +1775,285 @@ Visit us at Dominion Ridge Shopping Center, 22211 I-10 Access Rd #1201, Suite #1
 
 Your questions matter, and taking the first step toward understanding your health is worthwhile.`
   }
+,
+  {
+    id: "small-steps-toward-better-pelvic-health",
+    title: "Small Steps Toward Better Pelvic Health",
+    image: "/images/blog/woman-drinking-water-3183150.jpg",
+    content: `Taking care of your pelvic health doesn’t have to start with big changes.
+
+Begin by paying attention to your body’s signals, maintaining healthy daily habits, and discussing persistent symptoms with a healthcare professional.
+
+Pelvic health concerns can affect people in different ways, and understanding your individual needs is important.
+
+At Pelvic Vitality, we believe that learning about your pelvic wellness is a valuable first step toward making informed decisions about your health.`
+  },
+  {
+    id: "why-you-shouldnt-ignore-sudden-urinary-urgency",
+    title: "Why You Shouldn’t Ignore Sudden Urinary Urgency",
+    image: "/images/blog/stress-nervous-bladder-5938357.jpg",
+    content: `Have you ever felt an urgent need to use the bathroom that seemed to come out of nowhere?
+
+Sudden urinary urgency can interrupt work, travel, exercise, and other everyday activities.
+
+It may be associated with an overactive bladder, but infections and other medical conditions can also cause urgency.
+
+If this happens frequently or becomes difficult to manage, speak with a healthcare professional to understand the cause and explore suitable options.
+
+Your comfort and wellbeing deserve attention.`
+  },
+  {
+    id: "pelvic-health-during-menopause",
+    title: "Pelvic Health During Menopause",
+    image: "/images/blog/menopause-wellness-tea-7338535.jpg",
+    content: `Menopause can bring several physical changes, including changes that affect bladder and vaginal health.
+
+Some women experience increased urinary urgency, discomfort, or leakage during this stage of life.
+
+These symptoms are common concerns, but that doesn’t mean you have to accept them without seeking help.
+
+A qualified healthcare professional can explain possible causes and discuss treatment options suited to your needs.
+
+Understanding your changing body can help you make more informed decisions about your health.`
+  },
+  {
+    id: "how-to-talk-about-bladder-leakage",
+    title: "How to Talk About Bladder Leakage",
+    image: "/images/blog/open-medical-consultation-6129444.jpg",
+    content: `Talking about bladder leakage may feel uncomfortable, but it is a valid health concern that deserves attention.
+
+If you’re unsure how to start the conversation, simply explain when the leakage happens, how often it occurs, and how it affects your daily life.
+
+These details can help a healthcare professional understand your symptoms and determine what further evaluation may be needed.
+
+Remember, you don’t need to feel embarrassed about asking for help.
+
+Your health deserves an open and respectful conversation.`
+  },
+  {
+    id: "pelvic-floor-exercises-arent-one-size-fits-all",
+    title: "Pelvic Floor Exercises Aren’t One-Size-Fits-All",
+    image: "/images/blog/physical-therapy-rehab-5793917.jpg",
+    content: `You may have heard about Kegel exercises for pelvic floor health.
+
+These exercises involve contracting and relaxing the pelvic floor muscles, but they aren’t suitable for every pelvic health concern.
+
+Some people may need to improve strength, while others may benefit from learning how to relax and coordinate their muscles.
+
+If you’re unsure whether pelvic floor exercises are right for you, consider seeking guidance from a qualified healthcare professional.
+
+The right approach starts with understanding what your body needs.`
+  },
+  {
+    id: "bladder-habits-worth-paying-attention-to",
+    title: "Bladder Habits Worth Paying Attention To",
+    image: "/images/blog/daily-wellness-planner-4058356.jpg",
+    content: `Your everyday bathroom habits can sometimes provide useful clues about your health.
+
+Notice whether you are urinating much more frequently than usual, experiencing sudden urgency, or regularly waking up at night to use the bathroom.
+
+Keeping a simple bladder diary may help you identify patterns to discuss with your healthcare professional.
+
+Avoid making major changes to your fluid intake without appropriate guidance.
+
+Paying attention to your habits can help you take a more informed approach to bladder health.`
+  },
+  {
+    id: "pelvic-wellness-and-confidence-at-work",
+    title: "Pelvic Wellness and Confidence at Work",
+    image: "/images/blog/confidence-at-work-meeting-35730231.jpg",
+    content: `Long meetings, busy schedules, and limited breaks can become stressful when you’re dealing with frequent urination or bladder leakage.
+
+Some people may even change their work routines because they are worried about their symptoms.
+
+If bladder concerns are affecting your professional life, you deserve support and guidance.
+
+A healthcare professional can help you understand the possible causes and discuss appropriate management options.
+
+Looking after your health is important, both inside and outside the workplace.`
+  },
+  {
+    id: "understanding-pelvic-floor-coordination",
+    title: "Understanding Pelvic Floor Coordination",
+    image: "/images/blog/pelvic-anatomy-consultation-8248433.jpg",
+    content: `Your pelvic floor muscles need to do more than contract. They also need to relax at the right time.
+
+Proper coordination helps these muscles contribute to bladder and bowel control and support normal pelvic function.
+
+When coordination is affected, some people may experience difficulties with urination, bowel movements, or pelvic comfort.
+
+These symptoms can have different causes, so professional assessment is important.
+
+Learning how your pelvic floor works can help you better understand your overall pelvic health.`
+  },
+  {
+    id: "why-keeping-track-of-symptoms-can-help",
+    title: "Why Keeping Track of Symptoms Can Help",
+    image: "/images/blog/symptom-diary-notepad-5922442.jpg",
+    content: `Sometimes, pelvic health symptoms are easier to understand when you keep track of when they happen.
+
+Consider noting your bathroom visits, fluid intake, nighttime interruptions, or situations that trigger leakage.
+
+This information can help you recognize patterns and give your healthcare professional a clearer picture of your concerns.
+
+A symptom diary doesn’t diagnose a condition, but it can be a useful starting point for a conversation.
+
+Small observations can provide helpful information about your health.`
+  },
+  {
+    id: "pelvic-health-after-a-medical-procedure",
+    title: "Pelvic Health After a Medical Procedure",
+    image: "/images/blog/post-procedure-consultation-8358249.jpg",
+    content: `Some medical procedures can affect bladder control or pelvic floor function during recovery.
+
+The type of procedure, individual health history, and recovery process all influence what someone may experience.
+
+If you notice new urinary leakage, difficulty urinating, or pelvic discomfort after a procedure, contact your healthcare team for guidance.
+
+Follow your provider’s recommendations before starting exercises or trying a new treatment.
+
+A recovery plan should always be appropriate for your individual medical needs.`
+  },
+  {
+    id: "can-constipation-affect-pelvic-health",
+    title: "Can Constipation Affect Pelvic Health?",
+    image: "/images/blog/constipation-abdominal-strain-7298905.jpg",
+    content: `Constipation can put additional strain on the pelvic floor, particularly when bowel movements regularly involve straining.
+
+Over time, this may contribute to discomfort and can be associated with other pelvic floor concerns.
+
+Drinking adequate fluids, eating fiber-rich foods, and staying physically active may support healthy bowel habits.
+
+Persistent constipation or ongoing difficulty with bowel movements should be discussed with a healthcare professional.
+
+Taking care of your digestive health can also be an important part of caring for your pelvic wellness.`
+  },
+  {
+    id: "what-is-the-difference-between-pelvic-wellness-and-pelvic-physical-therapy",
+    title: "What Is the Difference Between Pelvic Wellness and Pelvic Physical Therapy?",
+    image: "/images/blog/pelvic-physical-therapy-4506073.jpg",
+    content: `Pelvic wellness services and pelvic floor physical therapy are not necessarily the same.
+
+Pelvic floor physical therapy involves assessment and individualized treatment by a qualified physical therapist with appropriate training.
+
+Depending on the person’s needs, treatment may include exercises, muscle coordination training, education, and other techniques.
+
+Pelvic wellness services may offer different approaches, including certain non-invasive technologies.
+
+Understanding the differences can help you choose the appropriate type of care for your symptoms and goals.`
+  },
+  {
+    id: "pelvic-health-and-staying-active-as-you-age",
+    title: "Pelvic Health and Staying Active as You Age",
+    image: "/images/blog/active-senior-walking-20163274.jpg",
+    content: `Staying active can support strength, mobility, balance, and overall wellbeing as you get older.
+
+Pelvic health is another part of wellness worth keeping in mind.
+
+If bladder leakage or pelvic discomfort makes exercise difficult, consider speaking with a healthcare professional about possible causes and suitable activity options.
+
+You may be able to adapt your routine while addressing your concerns.
+
+Your wellness journey can continue at every stage of life, with an approach that fits your abilities and needs.`
+  },
+  {
+    id: "understanding-bladder-triggers",
+    title: "Understanding Bladder Triggers",
+    image: "/images/blog/coffee-caffeine-triggers-302899.jpg",
+    content: `Certain drinks, medications, and daily habits may affect bladder symptoms in some people.
+
+Caffeine, for example, can increase urinary urgency or frequency for some individuals.
+
+However, triggers vary from person to person, and not every bladder concern is caused by diet.
+
+Keeping track of your symptoms and discussing possible triggers with a healthcare professional can help you identify patterns.
+
+The goal is to understand your body without unnecessarily restricting your everyday routine.`
+  },
+  {
+    id: "pelvic-health-and-intimacy",
+    title: "Pelvic Health and Intimacy",
+    image: "/images/blog/couple-holding-hands-intimacy-7734167.jpg",
+    content: `Pelvic discomfort can sometimes affect intimacy and personal relationships.
+
+Muscle tension, certain pelvic conditions, hormonal changes, and other health factors may contribute to discomfort during sexual activity.
+
+These concerns can feel difficult to discuss, but they are valid reasons to seek professional guidance.
+
+A qualified healthcare professional can help evaluate possible causes and explain appropriate treatment options.
+
+Feeling comfortable asking questions is an important part of looking after your overall health and wellbeing.`
+  },
+  {
+    id: "why-personalized-pelvic-care-matters",
+    title: "Why Personalized Pelvic Care Matters",
+    image: "/images/blog/personalized-care-plan-7659861.jpg",
+    content: `Pelvic health symptoms can look similar but have different underlying causes.
+
+For example, frequent urination may be related to bladder conditions, fluid intake, medication, or other health factors.
+
+This is why a treatment that works for one person may not be appropriate for someone else.
+
+A personalized approach begins with understanding your symptoms, medical history, and goals.
+
+At Pelvic Vitality, we encourage people to ask questions and learn whether available services are suitable for their individual needs.`
+  },
+  {
+    id: "getting-comfortable-with-your-first-wellness-appointment",
+    title: "Getting Comfortable With Your First Wellness Appointment",
+    image: "/images/blog/doctor-consultation-office-7579823.jpg",
+    content: `Booking a wellness appointment can feel easier when you know what questions to ask.
+
+Before your visit, consider writing down your symptoms, how long you’ve experienced them, and any concerns you want to discuss.
+
+You can also ask about the treatment process, expected session length, possible limitations, and whether the service is appropriate for you.
+
+At Pelvic Vitality, clients interested in the Gazelle Chair can ask the team about the technology and what a session involves.
+
+Being informed can help you feel more prepared to make decisions about your care.`
+  },
+  {
+    id: "pelvic-health-is-about-more-than-symptoms",
+    title: "Pelvic Health Is About More Than Symptoms",
+    image: "/images/blog/confident-mature-wellness-7087714.jpg",
+    content: `Pelvic health is not only about addressing problems when they appear.
+
+It also involves understanding how your body functions, recognizing changes, and knowing when to seek professional advice.
+
+Learning about bladder control, bowel function, and pelvic floor muscles can help you become more aware of your overall health.
+
+You don’t need to wait until a concern significantly affects your routine before asking questions.
+
+Awareness and informed decisions are valuable parts of personal wellness.`
+  },
+  {
+    id: "exploring-the-gazelle-chair-at-pelvic-vitality",
+    title: "Exploring the Gazelle Chair at Pelvic Vitality",
+    image: "/images/gazelle-chair-new.png",
+    content: `Curious about the technology offered at Pelvic Vitality?
+
+The Gazelle Chair uses electromagnetic neuromuscular stimulation to target the pelvic floor muscles.
+
+Sessions take approximately 20 minutes, and clients remain fully clothed throughout the session.
+
+If you’re considering this service, ask about how it works, who may be suitable for treatment, and what outcomes can reasonably be expected.
+
+The team at Pelvic Vitality can help explain the service so you can make an informed decision.
+
+Every person’s health needs and treatment experience are different.`
+  },
+  {
+    id: "make-pelvic-wellness-part-of-your-health-conversation",
+    title: "Make Pelvic Wellness Part of Your Health Conversation",
+    image: "/images/blog/doctor-consultation-4266930.jpg",
+    content: `Your health includes many different aspects, and pelvic wellness deserves a place in that conversation.
+
+Whether you’re experiencing bladder changes, pelvic discomfort, or simply want to understand your options, asking questions is a positive step.
+
+You deserve clear information and care that takes your individual needs seriously.
+
+Pelvic Vitality welcomes the San Antonio community to learn more about pelvic wellness services and the Gazelle Chair.
+
+Location: Dominion Ridge Shopping Center, 22211 I-10 Access Rd #1201, Suite #14, San Antonio, TX 78256.`
+  }
 ];
