@@ -1,6 +1,7 @@
 import { Outlet } from 'react-router-dom';
 import Navbar from './Navbar';
 import Footer from './Footer';
+import ResearchSurveyModal from '../survey/ResearchSurveyModal';
 
 const WebsiteLayout = () => {
   return (
@@ -10,6 +11,8 @@ const WebsiteLayout = () => {
         <Outlet />
       </main>
       <Footer />
+      {/* Floating Survey Action Button & Popup Modal replacing old chatbot */}
+      <ResearchSurveyModal />
     </div>
   );
 };

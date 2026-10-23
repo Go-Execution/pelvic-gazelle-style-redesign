@@ -15,6 +15,7 @@ import ContactPage from './pages/ContactPage';
 import SpecialistsPage from './pages/SpecialistsPage';
 import BlogsPage from './pages/BlogsPage';
 import BlogDetailPage from './pages/BlogDetailPage';
+import SurveyPage from './pages/SurveyPage';
 
 // Legal Pages
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
@@ -57,6 +58,8 @@ function App() {
           <Route path="/specialists" element={<SpecialistsPage />} />
           <Route path="/faqs" element={<FAQPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/survey" element={<SurveyPage />} />
+          <Route path="/research-survey" element={<SurveyPage />} />
           <Route path="/blogs" element={<BlogsPage />} />
           <Route path="/blogs/:id" element={<BlogDetailPage />} />
           <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
